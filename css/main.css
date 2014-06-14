@@ -27,6 +27,7 @@ body{
 }
 #top_header h1{
 	float: right;
+	font: 30px;
 }
 #top_menu{
 	background: blue;
@@ -56,4 +57,12 @@ body{
 ul#navmenu, ul.sub1, ul.sub2 {
 	list-style-type: none;
 	
+}
+
+ul#navmenu li {
+	outline: 1px solid red;
+	width: 125;
+	text-align: center;
+	position: relative;
+	float: left;
 }

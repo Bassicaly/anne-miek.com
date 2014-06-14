@@ -1,0 +1,59 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+h1{
+	font: bold 20px Tahoma;
+}
+h2{
+	font: bold 14px Tahoma;
+}
+header, section, footer, aside, nav, article, hgroup{
+	display: block;
+}
+body{
+	text-align: center;
+}
+#wrapper{
+	border: 1px solid black;
+	width: 1000px;
+	margin: 20px auto;
+	text-align: left;
+}
+#top_header{
+	background: yellow;
+	border: 1px solid blue;
+	padding: 20px;
+}
+#top_header h1{
+	float: right;
+}
+#top_menu{
+	background: blue;
+	color: white;
+}
+#main_section{
+	float: left;
+	width: 660px;
+	margin: 30px; /* 720px, 280 left */
+}
+#news_left{
+	float: left;
+	width: 220px;
+	margin: 20px 0;
+	padding: 30px;
+}
+#news_right{
+	
+}
+#the_footer{
+	clear:both;
+	text-align: center;
+	padding: 20px;
+	border-top: 2px solid black;
+}
+
+ul#navmenu, ul.sub1, ul.sub2 {
+	list-style-type: none;
+	
+}

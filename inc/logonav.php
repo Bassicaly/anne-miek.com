@@ -1,8 +1,6 @@
 	<header id="top_header">
-		<div id="logo">
-			<img src="/img/zonnebloem.png" />
-		</div>
-		<div id="mainTitle"><h1>Anne-Miek Osteopathie</h1></div>
+		<img src="/img/zonnebloem.png" />		
+		<h1>Anne-Miek Osteopathie</h1>
 		<a href="indexen.html"></a>
 	</header>
 	

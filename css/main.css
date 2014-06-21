@@ -2,17 +2,21 @@
 	margin: 0px;
 	padding: 0px;
 }
-h1{
-	font: bold 20px Tahoma;
-}
-h2{
-	font: bold 14px Tahoma;
-}
 header, section, footer, aside, nav, article, hgroup{
 	display: block;
 }
 body{
+	font-family: Verdana;
 	text-align: center;
+}
+h1{
+
+}
+h2{
+	margin-bottom: .5em;
+}
+p{
+	margin-bottom: .5em;
 }
 #wrapper{
 	border: 1px solid black;
@@ -22,12 +26,13 @@ body{
 }
 #top_header{
 	background: yellow;
-	border: 1px solid blue;
-	padding: 20px;
+	outline: 1px solid blue;
 }
 #top_header h1{
+	display: inline;
 	float: right;
 	font: 30px;
+	outline: 1px solid red;
 }
 #top_menu{
 	background: blue;
@@ -65,4 +70,19 @@ ul#navmenu li {
 	text-align: center;
 	position: relative;
 	float: left;
+	margin-right: 4px;
+}
+
+ul#navmenu a {
+	text-decoration: none;
+	display: block;
+	width: 125px;
+	height: 25px;
+	line-height: 25px;
+	background-color:#CCC;
+	border-radius: 5px;
+}
+
+ul#navmenu .sub1 a {
+	margin-top: 3px;
 }

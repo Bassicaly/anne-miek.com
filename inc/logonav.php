@@ -1,32 +1,24 @@
-	<header id="top_header">
-		<img src="/img/zonnebloem.png" />		
-		<h1>Anne-Miek Osteopathie</h1>
-		<a href="indexen.html"></a>
+	<header id="top_header">	
+		<div id="slideshow">
+			<h1>Anne-Miek Osteopathie</h1>
+			<img src="/img/osteo1.png">
+			<img src="/img/osteo2.png">
+			<img src="/img/osteo3.png">
+			<img src="/img/osteo4.png">
+			<img src="/img/osteo5.png">
+			<img src="/img/osteo6.png">
+			<img src="/img/osteo7.png">
+			<img src="/img/osteo8.png">
+			<img src="/img/osteo9.png">
+			<img src="/img/osteo10.png">
+			<img src="/img/osteo11.png">
+			<img src="/img/osteo12.png">
+			<img src="/img/osteo13.png">
+			<img src="/img/osteo14.png">
+		</div>
+		<script src="/js/thirdparty/kenburns.js"></script>
 	</header>
-	
-	<div id="slideshow">
-		<img src="/img/firstcar.gif" name="slide" />
-	<!-- script for the slideshow -->
-		<script>
-			<!--
-			//variable that will increment through the images
-			var step=1
-			function slideit(){
-			//if browser does not support the image object, exit.
-				if (!document.images)
-					return
-				document.images.slide.src=eval("image"+step+".src")
-				if (step<14)
-					step++
-				else
-					step=1
-					//call function "slideit()" every 2.5 seconds
-					setTimeout("slideit()",2500)
-			}
-			slideit()
-			//-->
-		</script>
-	</div>
+
 	
 	<nav id="top_menu">
 		<ul id="navmenu">

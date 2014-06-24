@@ -12,18 +12,4 @@
 		<?php require($INC_DIR. "old.php"); ?>
 	</section>
 
-	<aside id="news_left">
-		<ul>
-			<?php
-				$var = "test";
-				$als = "next";
-			?>
-		</ul>
-	</aside>
-
-	<aside id="news_right">
-		<ul>
-			
-		</ul>
-	</aside>
 <?php require($INC_DIR. "footer.php"); ?>

@@ -145,10 +145,15 @@ p{
 }
 
 #slideshow h1{
-	font-size: 30px;
-	outline: 1px solid red;
+	position: absolute;
+	width: 100%;
+	top: 50%;
+	font-size: 3.5em;
+	margin-top: -1em;
 	z-index: 10;
 	text-align: center;
+	color: rgba(255,0,0,0.7);
+	background: rgba(0,255,255,0.3);
 }
 
 #main_section{

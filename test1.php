@@ -1,16 +1,15 @@
-<!DOCTYPE html>
-<html>
-<head>
-	<link rel="stylesheet" href="/css/test.css">
-</head>
-<body>
-	<!-- <div class="category-info"> -->
-	<!--	<div class="image"> -->
-	<div class="cat_info">
-		<div class="container">
-			<h1>Anne-Miek</h1>
-			<img src="/img/osteo1.png" />
-		</div>
-	</div>
-</body>
-</html>
+<?php
+	$INC_DIR = $_SERVER["DOCUMENT_ROOT"]. "/inc/";
+	$title = "Anne-Miek Osteopathie Amsterdam";
+	$description = "Osteopaat Anne-Miek de Nijs in Amsterdam. Zeer bekend om haar osteopathie bij kinderen";
+?>
+
+<?php require($INC_DIR. "header1.php"); ?>
+
+<?php require($INC_DIR. "logonav.php"); ?>
+
+	<section id="main_section">
+		<?php require($INC_DIR. "old.php"); ?>
+	</section>
+
+<?php require($INC_DIR. "footer.php"); ?>

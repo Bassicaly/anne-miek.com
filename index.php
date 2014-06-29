@@ -9,7 +9,22 @@
 <?php require($INC_DIR. "logonav.php"); ?>
 
 	<section id="main_section">
-		<?php require($INC_DIR. "old.php"); ?>
+	<h2>Osteopathie: een veilige geneeswijze die meedenkt met uw lichaam en het helpt bij het herstellen van klachten.</h2>
 	</section>
+	
+	<aside id="news_left">
+		<ul>
+			<?php
+				$var = "test";
+				$als = "next";
+			?>
+		</ul>
+	</aside>
+
+	<aside id="news_right">
+		<ul>
+			
+		</ul>
+	</aside>
 
 <?php require($INC_DIR. "footer.php"); ?>

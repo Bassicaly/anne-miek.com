@@ -5,25 +5,34 @@
 ?>
 
 <?php require($INC_DIR. "header.php"); ?>
-<div id="wrapper">
+
 <?php require($INC_DIR. "logonav.php"); ?>
 
 	<section id="main_section">
-	<br>
-	<h2>Wat is osteopathie.</h2>
-	<br>
-Osteopathie: een manuele geneeswijze
-Alles in het lichaam beweegt, van spieren tot bloedvaten, van ingewanden tot botten. Osteopathie is veilige geneeskunde die zich richt op de beweging van en in het lichaam. Deze beweeglijkheid is nodig om goed en zonder klachten te kunnen functioneren. Osteopathie is een manuele geneeswijze die zich richt op het vinden en behandelen van bewegingsbeperkingen in het lichaam die klachten veroorzaken.
-Alle systemen in het lichaam werken mee om het gezond te houden of om een ziekte te lijf te gaan. Functioneert een deel van het lichaam niet goed, dan beïnvloedt dat ook de rest. Een osteopaat benadert het lichaam daarom als één geheel. Als een deel van het lichaam niet goed kan bewegen, dan kan dat klachten veroorzaken. Omdat alle weefsels met elkaar in verbinding staan, kan pijn uitstralen naar andere delen van het lichaam. Een osteopaat onderzoekt waar in het lichaam de beweging hapert en herstelt de samenwerking tussen de verschillende weefsels.
-Een osteopaat werkt uitsluitend met zijn handen. Hij/zij gebruikt geen medicijnen of apparaten. Hij of zij maakt los wat los moet zitten en herstelt zo met (overwegend) zachte handgrepen het zelfgenezend vermogen van het lichaam.
-Een osteopaat is geen vervanger voor de huisarts of specialist, maar werkt er juist mee samen. Als het nodig is, verwijst een osteopaat door.
-•	Naar de Osteopaat
-•	De osteopaat
-•	De Nederlandse Vereniging voor Osteopathie
-•	Geschiedenis van de osteopathie
-•	< terug
+	<h2>WAT IS OSTEOPATHIE</h2>
+	<p>Osteopathie is een geneeswijze afkomstig uit Amerika, die nu, via Engeland, Frankrijk en Belgi&euml; zijn opmars maakt in Nederland. De 7-jarige opleiding is alleen toegankelijk voor fysiotherapeuten en/of artsen.</p>
+	<p>Grondlegger van de osteopathie is Dr. A. Still (1828-1917). Hij stelde vast dat elke lichamelijke klacht veroorzaakt wordt door een bewegingsbeperking van &eacute;&eacute;n of meerdere weefsels in het menselijk lichaam;</p>
+	<ul>
+	<li>gewrichten, spieren, pezen/banden en beenderen <i>(parietaal)</i></li>
+	<li>organen, zenuwen, klieren, bloed- en lymfestelsel <i>(visceraal)</i></li>
+	<li>schedelstructuren <i>(craniaal)</i></li>
+	</ul>
+	<p>Al deze onderdelen zijn met elkaar verbonden en zullen elkaar dus in positieve of negatieve zin be&iuml;nvloeden. Een verlies aan beweeglijkheid, veroorzaakt een verminderde doorbloeding van de weefsels, met alle gevolgen die daar bij horen. Daarnaast gaat het lichaam ergens anders dit bewegingsverlies kompenseren, wat overbelasting kan veroorzaken. Op die manier krijg je probleem op probleem en kun je in een vicieuze cirkel terecht komen.</p>
+	<p>Kenmerkend voor een osteopathische benadering is daarom een goed opgebouwde redenering aan de hand van een uitgebreide kennis van o.a. de menselijke fysiologie en anatomie. Osteopathie is een totale geneeswijze; we kijken niet alleen naar de klacht c.q. de symptomen, maar proberen te achterhalen waar dat probleem vandaan komt.</p>
+	<ul>
+	<li>Wat is de echte oorzaak?</li>
+	<li>Welke andere delen van het lichaam zijn erbij betrokken?</li>
+	<li>Welke verborgen aandoeningen staan ermee in verband?</li>
+	</ul>
+	<p>
+	Enkele voorbeelden;</p>
+		<div class="example">
+			<p>Men zal zijn voet gemakkelijker verzwikken omdat men al langere tijd (lichte) rugklachten heeft, waardoor men iets anders is gaan lopen.</p>
+			<p>Hoofdpijnen kunnen voorvloeien uit een schedelletsel, maar kunnen eveneens ontstaan door spanningen in de omgeving van het hoofd, door een probleem van de nek, van de rug, van het bekken of zelfs vanuit de organen.</p>
+			<p>Rugpijnen kunnen ontstaan door een verdraaiing van de wervels. Elk deel van de wervelkolom is echter ook verbonden met onze organen, waardoor beide een invloed op elkaar kunnen uitoefenen. Denk bijvoorbeeld aan lage rugpijn bij baarmoederproblemen.</p>
+		</div>
 	</section>
-
+	
 	<aside id="news_left">
 		<ul>
 			<?php
@@ -38,4 +47,5 @@ Een osteopaat is geen vervanger voor de huisarts of specialist, maar werkt er ju
 			
 		</ul>
 	</aside>
+
 <?php require($INC_DIR. "footer.php"); ?>

@@ -1,5 +1,5 @@
 	<footer id="the_footer">
-		<img src="/img/apache_pb2.gif" alt="" />
+		Designed and hosted at BDS
 	</footer>
 </div>
 </body>

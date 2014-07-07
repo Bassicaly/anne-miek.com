@@ -139,3 +139,8 @@ ul#navmenu .sub1 li:hover .sub2 {
 	font-style: italic;
 	padding: 10px 0px 10px 30px;
 }
+.mylogo {
+	font-style: bold;
+	color: dark-red;
+	
+}

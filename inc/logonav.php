@@ -16,7 +16,7 @@
 			</li>
 			<li><a href="#">Voor wie?</a>
 				<ul class="sub1">
-					<li><a href="/babies.php">Babies</a></li>
+					<li><a href="/babies.php">Baby's</a></li>
 					<li><a href="/kinderen.php">Kinderen</a></li>
 					<li><a href="/zwangerschap.php">Zwangeren</a></li>
 					<li><a href="/volwassenen.php">Volwassenen</a></li>

@@ -21,7 +21,7 @@
 		<li>Osteopathie bij de RSK, 1993</li>
 		<li>Osteopathie bij de FICO, 2001</li>
 		<li>Ge&iuml;ntegreerde technieken volgens De Bakker, 2003-2007</li>
-		<li>Osteopathie bij kinderen, Panta Rhei, 2010-2012</li>
+		<li>Diploma Osteopathie bij Kinderen, Panta Rhei, 2010-2013</li>
 	</ul>
 	<p>Werkervaring</p>
 	<ul>
@@ -46,14 +46,14 @@
 		<li>Het hart, Patrick van den Heede, 2010</li>
 		<li>Biodynamische osteopathie fase 1, Werner van Camp, 2010</li>
 		<li>Biodynamische osteopathie Pediatrics fase 1, Werner van Camp, 2011</li>
-		<li>Slaapproblemen bij kinderen, Liem, 2013</li>
+		<li>Slaapproblemen bij kinderen, Kok Weng Lim, 2013</li>
 	</ul>
 	<p>Congressen en symposia</p>
 	<ul>
 		<li>Congres osteopathie, Wat beweegt ons, 2007</li>
 		<li>Congres Samen Genezen, Artsenvereniging voor Biofysische geneeskunde en Bio-informatie therapie, 2009</li>
 		<li>Congres Viscerale osteopathie, 2009</li>
-		<li>Congres Fascia, wat beweegt ons, Panta Rheu, 2013</li>
+		<li>Congres Fascia, wat beweegt ons, Panta Rhei, 2013</li>
 	</ul>
 	</section>
 	

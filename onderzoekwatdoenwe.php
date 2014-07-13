@@ -10,10 +10,10 @@
 
 	<section id="main_section">
 	<h2>Onderzoek: wat gebeurt er?</h2>
-	<p>Een bezoek aan een osteopaat duurt drie kwartier tot een uur. De eerste keer stelt de osteopaat veel vragen: over de klacht, maar ook over de ziektegeschiedenis en leefgewoonten. Zo probeert hij te achterhalen welk weefsel bij u de klachten veroorzaakt en wat de oorzaak hiervan is.</p>
+	<p>Een bezoek aan een osteopaat duurt drie kwartier tot een uur. De eerste keer worden er veel vragen gesteld: over de klacht, maar ook over de ziektegeschiedenis en leefgewoonten. Zo probeer ik te achterhalen welk weefsel bij u de klachten veroorzaakt en wat de oorzaak hiervan is.</p>
 	<p>Daarna volgt een uitgebreid lichamelijk onderzoek. Er wordt onderzocht door welk bewegingsverlies het lichaam niet meer uit zichzelf herstelt. Dat gebeurt terwijl de patiënt in zijn of haar ondergoed afwisselend staat, zit, en ligt.</p>
-	<p>Als het onderzoek is afgerond bespreekt de osteopaat wat hij of zij heeft opgemerkt, en stelt een behandelplan op.</p>
-	<p>Osteopaten werken samen met reguliere geneeskundigen. Dankzij hun opleiding herkennen osteopaten klachten die nader onderzoek vereisen door bijvoorbeeld de huisarts of de specialist. Als het nodig is, verwijst de osteopaat u naar hen door.</p>
+	<p>Als het onderzoek is afgerond bespreek ik wat er is opgemerkt, en wordt er een behandelplan opgesteld.</p>
+	<p>Osteopaten werken samen met reguliere geneeskundigen. Dankzij hun opleiding herkennen osteopaten klachten die nader onderzoek vereisen door bijvoorbeeld de huisarts of de specialist. Als het nodig is, wordt er naar hen doorverwezen.</p>
 	</section>
 	
 	<aside id="news_left">

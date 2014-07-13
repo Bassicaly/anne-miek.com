@@ -16,7 +16,7 @@ body{
 h1{
 
 }
-h2{
+h2{ /* only seems to work for the first h2 on a page (prijzen.php) */
 	margin-bottom: .5em;
 }
 h3{
@@ -53,16 +53,23 @@ p{
 }
 #top_menu{
 }
-#main_section{
+#main_section {
 	float: left;
 	width: auto;
 	margin: 30px; /* 720px, 280 left */
 }
 #main_section ul {
-	list-style-type: none;
+	list-style-type: disc;
 	margin: 20px 0px 20px 30px;
-}#main_section ul li {
+}
+#main_section ul li {
 	padding: 5px;
+}
+#main_section a:link, a:visited {
+	color: rgba(255,193,0,0.7);
+}
+#main_section a:hover, a:active {
+	color: rgb(255,193,0);
 }
 #news_left{
 }
@@ -74,12 +81,9 @@ p{
 	padding: 20px;
 	border-top: 2px solid black;
 }
-
 ul#navmenu, ul.sub1, ul.sub2 {
-	list-style-type: none;
-	
+	list-style-type: none;	
 }
-
 ul#navmenu li {
 	width: 125;
 	text-align: center;
@@ -139,8 +143,21 @@ ul#navmenu .sub1 li:hover .sub2 {
 	font-style: italic;
 	padding: 10px 0px 10px 30px;
 }
+.example {
+	font-style: italic;
+	font-weight: bold;
+	padding: 20px;
+}
 .mylogo {
-	font-style: bold;
-	color: dark-red;
-	
+	font-weight: bold;
+	color: #CC3300;	
+}
+.italic {
+	font-style: italic;
+}
+.bold {
+	font-weight: bold;
+}
+.right {
+	float: right;
 }

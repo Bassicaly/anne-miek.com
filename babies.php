@@ -11,6 +11,7 @@
 	<section id="main_section">
 	<h2>Osteopathie bij baby’s</h2>
 	<p>Tijdens een bevalling worden grote krachten uitgeoefend op het lichaam van het ongeboren kind. De beweeglijkheid van het lichaampje en de schedel zorgen er in het algemeen voor dat deze krachten goed opgevangen kunnen worden. Maar als de bevalling erg lang heeft geduurd, of als deze juist heel snel is gegaan, dan kan dat gevolgen hebben voor het welzijn van het kind. Ook kunnen klachten ontstaan na een geboorte van een baby in stuitligging, na een vacuümverlossing of een keizersnede.</p>
+	<p class="example">Behandeling van baby’s en kinderen is duidelijk niet hetzelfde als het behandelen van volwassenen. Daarvoor is dan ook een 2 jarige vervolg opleiding die ik heb afgerond; Osteopathie bij Kinderen.</p>
 	<p>Een osteopaat kan dan op een zachte manier het lichaam van de baby doen ontspannen en zijn natuurlijke beweeglijkheid teruggeven. Er wordt beslist géén manipulaties uitgevoerd.</p>
 	<p>Het is onmogelijk een complete lijst te maken van alle klachten waarmee u met uw baby bij een osteopaat terecht kan. Hieronder vindt u een lijst van de klachten die wij het meest tegenkomen. Staat de klacht van uw kind er niet bij, aarzel dan niet contact op te nemen.</p>
 	<ul>

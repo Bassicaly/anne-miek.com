@@ -16,7 +16,7 @@
 	<p>Betalingen per pin of contant. Bij ieder consult krijgt u een nota mee die u bij uw zorgverzekeraar kunt declareren.</p>
 	<p>Annuleren: Indien U bij verhindering tenminste 24 uur van te voren afzegt, wordt de gereserveerde tijd niet in rekening gebracht.</p>
 	<h2>Vergoeding door verzekeraar:</h2>
-	<p>Alle zorgverzekeraars vergoeden een osteopathisch consult geheel of gedeeltelijk uit het aanvullende pakket. Neem contact op met uw verzekeraar om te weten of dat ook geldt voor u. De meeste zorgverzekeraars vragen geen verwijzing voor osteopatische behandeling. <a href="http://www.osteopathie.nl/cms/upload/files/overzicht vergoedingen 2014-2 site.pdf" target="_blank">Hier (pdf)</a> vindt u een lijst van zorgverzekeraars en hun vergoedingen voor osteopathie voor 2014.</p>
+	<p>Alle zorgverzekeraars vergoeden een osteopathisch consult geheel of gedeeltelijk uit het aanvullende pakket. Neem contact op met uw verzekeraar om te weten of dat ook geldt voor u. De meeste zorgverzekeraars vragen geen verwijzing voor osteopatische behandeling. Hier (pdf) vindt u een lijst van zorgverzekeraars en hun vergoedingen voor osteopathie voor 2014.</p>
 	<p>Ik ben aangesloten bij het <a href="http://www.osteopathie-nro.nl" target="_blank">Nederlands Register voor Osteopathie (NRO)</a> en de <a href="http://www.osteopathie.nl" target="_blank">Nederlandse vereniging voor Osteopathie (NVO)</a></p>
 	<h2>Verhoging BTW</h2>
 	<p>De regering heeft in het zogenaamde Kunduz- of lenteakkoord van 2012 besloten dat osteopaten 21% omzetbelasting moeten afdragen per 1-1-2013. Dit heeft voor onze beroepsgroep enorme gevolgen aangezien wij als zorgverleners tot op heden niet BTW-plichtig waren.</p>

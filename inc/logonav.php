@@ -1,6 +1,6 @@
 	<nav id="top_menu">
 		<ul id="navmenu">
-			<li><a href="/index.php">Home</a></li>
+			<li><a href="/index.php">Welkom</a></li>
 			<li><a href="#">Osteopathie</a>
 				<ul class="sub1">
 					<li><a href="/hoe.php">Hoe werkt het</a>

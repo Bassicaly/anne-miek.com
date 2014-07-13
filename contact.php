@@ -11,19 +11,13 @@
 
 	<section id="main_section">
 	<h2>Contact</h2>
-	
-	<p>e-mail: <a href="mailto:info@anne-miek.com">info@anne-miek.com</a></p>
 	<p>telefoon: 06-25505914</p>
+	<p>e-mail: <a href="mailto:info@anne-miek.com">info@anne-miek.com</a></p>
 	
-	<h2>Locaties:</h2>
-	<p>Op <span class="bold italic">vrijdags</span> werk ik in:</p>
-	<p>Integrale Huisartsenpraktijk West</p>
-	<p>Witte de Withstraat 11</p>
-	<p>1057 XE Amsterdam</p>
-	<br>
-	<p>Op <span class="bold italic">dinsdag</span> en <span class="bold italic">woensdag</span> :</p>
-	<p>Brouwersgracht 214-hs</p>
-	<p>1013 HD Amsterdam</p>
+	<p>Met vriendelijke groet,</p>
+	<p>Anne-Miek de Nijs</p>
+	<p>Osteopaat (Lid <a target="_blank" href="http://www.osteopathie.nl">NVO</a> en <a target="_blank" href="http://www.vnt-nederland.nl">VNT</a>)</p>
+	
 	</section>
 
 	<aside id="news_left">

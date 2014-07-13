@@ -1,7 +1,7 @@
 <?php
 	$INC_DIR = $_SERVER["DOCUMENT_ROOT"]. "/inc/";
-	$title = "Anne-Miek Osteopathie Amsterdam";
-	$description = "Osteopaat Anne-Miek de Nijs in Amsterdam. Zeer bekend om haar osteopathie bij kinderen";
+	$title = "Wanneer naar de Osteopaat";
+	$description = "Klachten aan de rug, nek, schouder, heup, bekken, maag en darmen maar ook huilbaby's, zwangerschap, verstuikingen, whiplash, hoofdpijn, RSI, vermoeidheid etc.";
 ?>
 
 <?php require($INC_DIR. "header.php"); ?>
@@ -13,7 +13,10 @@
 	<p>Veel mensen met chronische rug- of nekpijn hebben baat bij behandeling door een osteopaat. Maar de lijst van klachten waarbij osteopathie kan helpen is nog veel langer. Ook bij bijvoorbeeld migraine, whiplash, buikpijn, slechte darmwerking kan behandeling door een osteopaat zinvol zijn. Ook is het belangrijk om te weten dat osteopathie uitkomst kan bieden bij huilbaby’s.</p>
 	<p>Het is onmogelijk een lijst te maken van alle klachten waarmee u bij een osteopaat terecht kunt. Hieronder vindt u een lijst van de klachten die osteopaten het meest tegenkomen. Staat uw klacht er niet bij, aarzel dan niet contact op te nemen.</p>
 	<ul>
-		<li>Pijnlijke of stramme ledematen, rug, nek, schouder en heup</li>
+		<li>Lage rugklachten, waaronder hernia's</li>
+		<li>Nek- en schouderklachten</li>
+		<li>Heupklachten</li>
+		<li>Pijnlijke of stramme ledematen</li>
 		<li>Bekkenklachten, ook gerelateerd aan de zwangerschap</li>
 		<li>Klachten aan het staartbeen</li>
 		<li>Sportblessures, verstuikingen</li>

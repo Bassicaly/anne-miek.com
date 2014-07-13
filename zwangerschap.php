@@ -1,7 +1,7 @@
 <?php
 	$INC_DIR = $_SERVER["DOCUMENT_ROOT"]. "/inc/";
-	$title = "Anne-Miek Osteopathie Amsterdam";
-	$description = "Osteopaat Anne-Miek de Nijs in Amsterdam. Zeer bekend om haar osteopathie bij kinderen";
+	$title = "Osteopathie en zwangeschap";
+	$description = "Een veilige manier om moeder en kind zo goed mogelijk voor te bereiden.";
 ?>
 
 <?php require($INC_DIR. "header.php"); ?>
@@ -16,6 +16,7 @@
 	<p>Indicaties om een osteopaat te raadplegen zijn:</p>
 	<ul>
 		<li>Bekkenpijn of bekkeninstabiliteit</li>
+		<li>Draaien bij stuitligging door behandeling van het bekken</li>
 		<li>Rugklachten</li>
 		<li>Pijn aan het stuitje</li>
 		<li>Oprispingen</li>

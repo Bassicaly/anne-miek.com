@@ -1,7 +1,7 @@
 <?php
 	$INC_DIR = $_SERVER["DOCUMENT_ROOT"]. "/inc/";
-	$title = "Anne-Miek Osteopathie Amsterdam";
-	$description = "Osteopaat Anne-Miek de Nijs in Amsterdam. Zeer bekend om haar osteopathie bij kinderen";
+	$title = "De osteopaat";
+	$description = "Osteopaat Anne-Miek de Nijs in Amsterdam.";
 ?>
 
 <?php require($INC_DIR. "header.php"); ?>
@@ -9,7 +9,7 @@
 <?php require($INC_DIR. "logonav.php"); ?>
 
 	<section id="main_section">
-	<h2>DE OSTEOPAAT</h2>
+	<h2>De osteopaat</h2>
 	<p>Nederland telt ruim 600 geregistreerde osteopaten. Zij hebben de minimaal vijfjarige beroepsopleiding osteopathie gevolgd bij een opleiding die door het <a href="http://osteopathie-nro.nl/" target="_blank">Nederlands Register voor Osteopathie (NRO)</a> is erkend. Alle osteopaten die zijn geregistreerd bij het Nederlands Register voor Osteopathie werken volgens het beroepscompetentieprofiel osteopathie 2009. Zij mogen zich D.O.-MRO&reg; noemen. De <a href="http://www.osteopathie.nl/" target="_blank">Nederlandse Vereniging voor Osteopathie (NVO)</a> behartigt de belangen van alle osteopaten.</p>
 	</section>
 	

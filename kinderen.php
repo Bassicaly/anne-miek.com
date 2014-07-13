@@ -1,7 +1,7 @@
 <?php
 	$INC_DIR = $_SERVER["DOCUMENT_ROOT"]. "/inc/";
-	$title = "Anne-Miek Osteopathie Amsterdam";
-	$description = "Osteopaat Anne-Miek de Nijs in Amsterdam. Zeer bekend om haar osteopathie bij kinderen";
+	$title = "Osteopathie bij Kinderen";
+	$description = "Osteopathie bij kinderen heeft vaak baat bij motorische ontwikkelingen, astma, eczeem, bedlassen, buikpijn, gedragsproblemen, etc.";
 ?>
 
 <?php require($INC_DIR. "header.php"); ?>

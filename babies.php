@@ -1,7 +1,7 @@
 <?php
 	$INC_DIR = $_SERVER["DOCUMENT_ROOT"]. "/inc/";
-	$title = "Anne-Miek Osteopathie Amsterdam";
-	$description = "Osteopaat Anne-Miek de Nijs in Amsterdam. Zeer bekend om haar osteopathie bij kinderen";
+	$title = "Osteopathie bij baby's";
+	$description = "Osteopathie bij baby's kan goed helpen bij huilbaby's, slaapproblemen, onrust, refluxklachten, voorkeurshouding, platte schedel, darmkrampjes, exceem en nog meer.";
 ?>
 
 <?php require($INC_DIR. "header.php"); ?>
@@ -15,7 +15,7 @@
 	<p class="example">Behandeling van baby’s en kinderen is duidelijk niet hetzelfde als het behandelen van volwassenen. Daarvoor is dan ook een 2 jarige vervolg opleiding die ik heb afgerond; Osteopathie bij Kinderen.</p>
 	<p>Een osteopaat kan dan op een zachte manier het lichaam van de baby doen ontspannen en zijn natuurlijke beweeglijkheid teruggeven. Er wordt beslist géén manipulaties uitgevoerd.</p>
 	<p>Het is onmogelijk een complete lijst te maken van alle klachten waarmee u met uw baby bij een osteopaat terecht kan. Hieronder vindt u een lijst van de klachten die wij het meest tegenkomen. Staat de klacht van uw kind er niet bij, aarzel dan niet contact op te nemen.</p>
-	<img class="right" src="/img/rp2.png" alt="een baby tijdens de behandeling door Anne-miek" width="400px" />
+	<img class="right" src="/img/rp2.png" alt="een baby tijdens de behandeling door Anne-miek" />
 	<ul>
 		<li>Slaapproblemen</li>
 		<li>Problemen met voeden, zuigen of slikken</li>

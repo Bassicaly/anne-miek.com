@@ -1,7 +1,7 @@
 <?php
 	$INC_DIR = $_SERVER["DOCUMENT_ROOT"]. "/inc/";
-	$title = "Anne-Miek Osteopathie Amsterdam";
-	$description = "Osteopaat Anne-Miek de Nijs in Amsterdam. Zeer bekend om haar osteopathie bij kinderen";
+	$title = "Geschiedenis";
+	$description = "Ruim een eeuw geleden ontwikkeld door Andrew T. Still in Amerika. Hij combineerde zijn medische kennis met eigen, nieuwe inzichten.";
 ?>
 
 <?php require($INC_DIR. "header.php"); ?>
@@ -9,7 +9,7 @@
 <?php require($INC_DIR. "logonav.php"); ?>
 
 	<section id="main_section">
-	<h2>GESCHIEDENIS</h2>
+	<h2>Geschiedenis</h2>
 	<img class="right" src="/img/nvo2.jpg" alt="foto van een schedel" />
 	<p>Osteon is Grieks voor bot, pathos voor ziekte. Hieraan heeft de osteopathie zijn naam ontleend.</p>
 	<p>Osteopathie is ruim een eeuw geleden ontwikkeld door de Amerikaanse arts <em><a href="http://en.wikipedia.org/wiki/Andrew_Taylor_Still" target="_blank">Andrew T. Still</a> (1828-1917)</em>. Hij combineerde zijn medische kennis met eigen, nieuwe inzichten. Zo’n inzicht was destijds dat alle lichaamsweefsels een zekere mate van beweging behoren te vertonen en dat verlies van deze beweeglijkheid een nadelige invloed heeft op de gezondheid. Hij ontwikkelde een manier om met zijn handen weefsels met verminderde beweeglijkheid in het lichaam te kunnen opsporen. Met specifieke handelingen herstelde hij die beweeglijkheid, om zo een genezend effect op het lichaam uit te oefenen. Deze behandelwijze was toen revolutionair en is ook de grondlegger van de manuele therapie en chiropractie.</p>

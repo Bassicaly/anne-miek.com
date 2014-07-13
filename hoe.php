@@ -1,7 +1,7 @@
 <?php
 	$INC_DIR = $_SERVER["DOCUMENT_ROOT"]. "/inc/";
-	$title = "Anne-Miek Osteopathie Amsterdam";
-	$description = "Osteopaat Anne-Miek de Nijs in Amsterdam. Zeer bekend om haar osteopathie bij kinderen";
+	$title = "Wat is osteopathie";
+	$description = "Alles in het lichaam beweegt, van spieren tot bloedvaten, van ingewanden tot botten. Osteopathie is een veilige geneeskunde die zich richt op de beweging van en in het lichaam.";
 ?>
 
 <?php require($INC_DIR. "header.php"); ?>

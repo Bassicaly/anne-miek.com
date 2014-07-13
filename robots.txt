@@ -1,2 +1,3 @@
-useragent: *
-Disallow: /email-addresses/
+User-agent: *
+Disallow: /
+Sitemap: http://dev_am.anne-miek.com

@@ -10,6 +10,14 @@
 
 	<section id="main_section">
 	<h2>Osteopathie: een veilige geneeswijze die meedenkt met uw lichaam en u helpt bij herstellen van klachten.</h2>
+	<br>
+	<h3>Waarom Osteopathie?</h3>
+	<ul>
+		<li>Op zoek naar de oorzaak en niet alleen maar symptoombestrijding.</li>
+		<li>Behandeling op maat want ieder mens is uniek in zijn klachten.</li>
+		<li>Ook zachte behandeltechnieken en daardoor zeer geschikt voor baby’s, kinderen en ouderen.</li>
+		<li>Een goede aanvulling op eventuele andere behandelmethodes.</li>
+	</ul>
 	</section>
 	
 	<aside id="news_left">

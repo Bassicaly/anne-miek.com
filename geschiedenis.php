@@ -2,6 +2,7 @@
 	$INC_DIR = $_SERVER["DOCUMENT_ROOT"]. "/inc/";
 	$title = "Geschiedenis";
 	$description = "Ruim een eeuw geleden ontwikkeld door Andrew T. Still in Amerika. Hij combineerde zijn medische kennis met eigen, nieuwe inzichten.";
+	$keywords = "";
 ?>
 
 <?php require($INC_DIR. "header.php"); ?>

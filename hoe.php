@@ -2,6 +2,7 @@
 	$INC_DIR = $_SERVER["DOCUMENT_ROOT"]. "/inc/";
 	$title = "Wat is osteopathie";
 	$description = "Alles in het lichaam beweegt, van spieren tot bloedvaten, van ingewanden tot botten. Osteopathie is een veilige geneeskunde die zich richt op de beweging van en in het lichaam.";
+	$keywords = "manuele geneeswijze weefsels in verbinding";
 ?>
 
 <?php require($INC_DIR. "header.php"); ?>

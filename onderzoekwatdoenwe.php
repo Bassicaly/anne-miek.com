@@ -2,6 +2,7 @@
 	$INC_DIR = $_SERVER["DOCUMENT_ROOT"]. "/inc/";
 	$title = "Osteopatisch onderzoek";
 	$description = "Er wordt onderzocht door welk bewegingsverlies het lichaam niet meer uit zichzelf herstelt.";
+	$keywords = "het osteopathisch onderzoek anamneze";
 ?>
 
 <?php require($INC_DIR. "header.php"); ?>

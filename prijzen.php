@@ -2,6 +2,7 @@
 	$INC_DIR = $_SERVER["DOCUMENT_ROOT"]. "/inc/";
 	$title = "Vergoedingen";
 	$description = "Prijs van een consult en wat de verzekeraar vergoed";
+	$keywords = "vergoeding voor behandeling";
 ?>
 
 <?php require($INC_DIR. "header.php"); ?>

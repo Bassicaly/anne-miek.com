@@ -2,6 +2,7 @@
 	$INC_DIR = $_SERVER["DOCUMENT_ROOT"]. "/inc/";
 	$title = "Osteopathie bij volwassenen";
 	$description = "Osteopathie bij volwassenen kan over allerlei klachten gaan: rug- en nekklachten, whiplash, RSI, migraine, incontinentie, maag- en darmklachten";
+	$keywords = "osteopathie bij volwassenen onoplosbaar oorzaak vinden";
 ?>
 
 <?php require($INC_DIR. "header.php"); ?>

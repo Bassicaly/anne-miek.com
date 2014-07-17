@@ -2,6 +2,7 @@
 	$INC_DIR = $_SERVER["DOCUMENT_ROOT"]. "/inc/";
 	$title = "Wanneer naar de Osteopaat";
 	$description = "Klachten aan de rug, nek, schouder, heup, bekken, maag en darmen maar ook huilbaby's, zwangerschap, verstuikingen, whiplash, hoofdpijn, RSI, vermoeidheid etc.";
+	$keywords = "osteopathie is voor rug of nekpijn whiplash migraine sportblessures hoofdpijn";
 ?>
 
 <?php require($INC_DIR. "header.php"); ?>

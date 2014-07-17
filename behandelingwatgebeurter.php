@@ -2,6 +2,7 @@
 	$INC_DIR = $_SERVER["DOCUMENT_ROOT"]. "/inc/";
 	$title = "Osteopathische behandeling";
 	$description = "Met zachte en soms stevige handgrepen maakt de osteopaat lichaamsweefsels weer beweeglijk. Als de behandeling aanslaat, merkt u al snel vooruitgang.";
+	$keywords = "behandeling handgrepen";
 ?>
 
 <?php require($INC_DIR. "header.php"); ?>

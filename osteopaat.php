@@ -2,6 +2,7 @@
 	$INC_DIR = $_SERVER["DOCUMENT_ROOT"]. "/inc/";
 	$title = "De osteopaat";
 	$description = "Osteopaat Anne-Miek de Nijs in Amsterdam.";
+	$keywords = "nvo nro beroepsopleiding osteopaten geregistreerd beroepscompetentieprofiel";
 ?>
 
 <?php require($INC_DIR. "header.php"); ?>

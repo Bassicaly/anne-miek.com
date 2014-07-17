@@ -22,8 +22,8 @@
 					<li><a href="/volwassenen.php">Volwassenen</a></li>
 				</ul>
 			</li>
-			<li><a href="/prijzen.php">Prijzen</a></li>
 			<li><a href="/anne-miek.php">Over mij</a></li>
+			<li><a href="/prijzen.php">Prijzen</a></li>
 			<li><a href="/contact.php">Contact</a></li>
 		</ul>
 	</nav>

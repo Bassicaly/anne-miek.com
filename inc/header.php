@@ -1,9 +1,10 @@
 <!DOCTYPE html>
 
-<html lang="en">
+<html lang="nl">
 <head>
 	<meta charset="utf-8">
 	<!-- SEO (search engine optimisation) -->
+	<meta name="msvalidate.01" content="F9BEBE1E3AA8E36ACBDABD1FB23C479B" />
 	<title><?php print $title ?></title>
 	<!-- Use keyword-rich title, less than 60 characters -->
 	
@@ -11,9 +12,11 @@
 	<!-- Use keyword-rich description, less than 160 characters -->
 	<!-- END SEO -->
 	
+	<!-- keywords not used by Google but still, can't hurt -->
+	<meta name="keywords" content="<?php print $keywords ?>">
+	
 	<link rel="stylesheet" href="/css/main.css">
 	<link rel="icon" type="image/png" href="/img/favicon.png">
-	<!-- <meta name="keywords" content="osteopathie, craniosacraal, amsterdam, annemiek, behandeling, manueel, osteopaat, anne-miek, rugpijn, rug klachten, fysiologie, totale geneeswijze, viscerale, nvo, vnt"> -->
 	<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
 	<script src="/js/modernizr.custom.25710.js"></script>
 	<!-- <script src="/js/thirdparty/kenburns.js"></script> -->

@@ -2,6 +2,7 @@
 	$INC_DIR = $_SERVER["DOCUMENT_ROOT"]. "/inc/";
 	$title = "Osteopathie bij kinderen";
 	$description = "Osteopathie bij kinderen heeft vaak baat bij motorische ontwikkelingen, astma, eczeem, bedlassen, buikpijn, gedragsproblemen, etc.";
+	$keywords = "astma kinderen buikpijn motorische ontwikkeling eczeem gedragsproblemen leerproblemen dyslexie hyperactiviteit";
 ?>
 
 <?php require($INC_DIR. "header.php"); ?>

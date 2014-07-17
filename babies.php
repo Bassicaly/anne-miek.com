@@ -2,6 +2,7 @@
 	$INC_DIR = $_SERVER["DOCUMENT_ROOT"]. "/inc/";
 	$title = "Osteopathie bij baby's";
 	$description = "Osteopathie bij baby's kan goed helpen bij huilbaby's, slaapproblemen, onrust, refluxklachten, voorkeurshouding, platte schedel, darmkrampjes, exceem en nog meer.";
+	$keywords = "baby's huilbaby's afgeplat hoofd darmkrampjes refluxklachten eczeem";
 ?>
 
 <?php require($INC_DIR. "header.php"); ?>
@@ -23,6 +24,7 @@
 		<li>Huilbaby's/Langdurig huilen</li>
 		<li>Refluxklachten, moeite met boeren</li>
 		<li>Voorkeurshouding</li>
+		<li>Afgeplat hoofd</li>
 		<li>Astma</li>
 		<li>Eczeem en allergie&euml;n</li>
 		<li>Keel-, neus- en oorproblemen</li>

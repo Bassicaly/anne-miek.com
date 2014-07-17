@@ -2,6 +2,7 @@
 	$INC_DIR = $_SERVER["DOCUMENT_ROOT"]. "/inc/";
 	$title = "Osteopathie en zwangeschap";
 	$description = "Een veilige manier om moeder en kind zo goed mogelijk voor te bereiden.";
+	$keywords = "zwangerschap stuitligging problemen met bekkenbodem obstipatie";
 ?>
 
 <?php require($INC_DIR. "header.php"); ?>

@@ -8,7 +8,7 @@
 	<title><?php print $title ?></title>
 	<!-- Use keyword-rich title, less than 60 characters -->
 	
-	<meta name="description" content="<?php print $title ?>">
+	<meta name="description" content="<?php print $description ?>">
 	<!-- Use keyword-rich description, less than 160 characters -->
 	<!-- END SEO -->
 	

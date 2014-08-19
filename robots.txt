@@ -1,3 +1,4 @@
-User-agent: *
-Disallow: /
-Sitemap: http://dev_am.anne-miek.com
+User-Agent: *
+Disallow:
+
+Sitemap: http://www.anne-miek.com/sitemap.xml

@@ -167,3 +167,9 @@ ul#navmenu .sub1 li:hover .sub2 {
 .left {
 	float: left;
 }
+.locations{
+   display: flex;
+}
+.location{
+    margin-right: 1.5em;
+}

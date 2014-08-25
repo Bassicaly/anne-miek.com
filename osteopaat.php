@@ -1,7 +1,7 @@
 <?php
 	$INC_DIR = $_SERVER["DOCUMENT_ROOT"]. "/inc/";
 	$title = "De osteopaat";
-	$description = "Osteopaat Anne-Miek de Nijs in Amsterdam.";
+	$description = "Anne-Miek de Nijs is osteopaat in Amsterdam. Zij heeft gewerkt bij Osteopathie Amsterdam. Zij is gespecialiseerd in osteopathie bij kinderen en baby's";
 	$keywords = "nvo nro beroepsopleiding osteopaten geregistreerd beroepscompetentieprofiel";
 ?>
 

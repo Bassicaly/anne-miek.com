@@ -76,6 +76,10 @@
 			<p>16 Zijn er erfelijke ziektes in de familie?</p>
 			<p><textarea name="Zijn er erfelijke ziektes in de familie?" rows="8" cols="70"></textarea></p>
 			<p>Beantwoord de hieronder gestelde vragen door het rondje zwart te maken in de juiste kolom. <br /> </p>
+			<div id="vragenlijst">
+				<p>Is uw slaappatroon de laatste tijd veranderd<span class="right"><input type="checkbox" name="Slaappatroon veranderd" /></span></p>
+			</div>
+			<br />
 			<table width="800" border="0">
 				<tbody>
 					<tr><td>&nbsp;</td><td>JA</td><td width="50">&nbsp;</td></tr>

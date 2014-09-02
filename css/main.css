@@ -142,6 +142,15 @@ ul#navmenu li:hover .sub1 {
 ul#navmenu .sub1 li:hover .sub2 {
 	display: block;
 }
+div#vragenlijst {
+	width: 100%;
+}
+div#vragenlijst p:hover {
+	background-color: rgba(255,193,0,0.8); /* color when hovering over 'button' */
+}
+#check {
+	float: right;
+}
 .example > p{
 	font-style: italic;
 	padding: 10px 0px 10px 30px;

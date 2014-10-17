@@ -10,5 +10,5 @@ Header set Cache-Control "max-age=172800, public, must-revalidate"
  
 # 2 HOURS
 <FilesMatch "\.(html|htm|css|php)$">
-Header set Cache-Control "max-age=7200, must-revalidate"
+Header set Cache-Control "max-age=14400, must-revalidate"
 </FilesMatch>

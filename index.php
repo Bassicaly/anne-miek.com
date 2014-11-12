@@ -4,6 +4,7 @@
 	$description = "Osteopathie: een veilige geneeswijze die meedenkt met uw lichaam en u helpt bij herstellen van klachten. Anne-Mie de Nijs in Amsterdam";
 	$keywords = "osteopathie amsterdam geschikt voor iedereen geneeswijze zachte behandeltechnieken";
 ?>
+<?php require($INC_DIR. "functions.php"); ?>
 
 <?php require($INC_DIR. "header.php"); ?>
 

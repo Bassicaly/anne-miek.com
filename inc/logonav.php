@@ -11,7 +11,7 @@
 					</li>
 					<li><a href="/onderzoekwatdoenwe.php">Onderzoek</a></li>
 					<li><a href="/behandelingwatgebeurter.php">Behandeling</a></li>
-					<li><a href="/wanneernaardeosteo.php">Klachten</a></li>
+					<li><a href="/wanneernaardeosteo.php">Welke Klachten</a></li>
 				</ul>
 			</li>
 			<li><a href="#">Voor wie?</a>

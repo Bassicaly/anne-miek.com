@@ -14,7 +14,9 @@
 	<h2>Contact</h2>
 	
 	<p>e-mail: <a href="mailto:info@anne-miek.com">info@anne-miek.com</a></p>
-	<p>telefoon: 06-25505914</p>
+	<p>telefoon: 06 255 05914</p>
+	<p>Indien niet beschikbaar kan er ook gebeld worden met de receptie van De Gouden Reaal</p>
+	<p>telefoon: 020 623 1949</p>
 	
 	<h2>Locaties:</h2>
 <div class="locations">

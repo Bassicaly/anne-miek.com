@@ -1,0 +1,23 @@
+<?php
+    // Allows autoversioning of css and js files
+
+    /**
+     *  Given a file, i.e. /css/base.css, replaces it with a string containing the
+     *  file's mtime, i.e. /css/base.1221534296.css.
+     *  
+     *  @param $file  The file to be loaded.  Must be an absolute path (i.e.
+     *                starting with slash).
+     */
+    function auto_version($file)
+    {
+      if(strpos($file, '/') !== 0 || !file_exists($_SERVER['DOCUMENT_ROOT'] . $file))
+      return $file;
+
+      $mtime = filemtime($_SERVER['DOCUMENT_ROOT'] . $file);
+      return preg_replace('%\.([^./]+)$%m', ".$mtime.\$1", $file);
+    }
+    
+    function phpAlert($msg) {
+        echo '<script type="text/javascript">alert("' . $msg . '")</script>';
+    }
+?>

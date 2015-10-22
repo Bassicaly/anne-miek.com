@@ -5,7 +5,6 @@
 	$keywords = "contact informatie";
 ?>
 
-
 <?php require($INC_DIR. "header.php"); ?>
 
 <?php require($INC_DIR. "logonav.php"); ?>
@@ -14,7 +13,7 @@
 	<h2>Contact</h2>
 	
 	<p>e-mail: <a href="mailto:info@anne-miek.com">info@anne-miek.com</a></p>
-	<p>telefoon: 06-25505914</p>
+	<p>telefoon: 06 255 05914</p>
 	
 	<h2>Locaties:</h2>
 <div class="locations">

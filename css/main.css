@@ -88,11 +88,12 @@ ul#navmenu, ul.sub1, ul.sub2 {
 	list-style-type: none;	
 }
 ul#navmenu li {
-	width: 125;
+	width: 121;
 	text-align: center;
 	position: relative;
 	float: left;
-	margin-right: 4px;
+	margin-right: 2px;
+	margin-left: 2px;
 }
 
 ul#navmenu a {
@@ -181,4 +182,7 @@ div#vragenlijst p:hover {
 }
 .location{
     margin-right: 1.5em;
+}
+.attention{
+	text-align: center;
 }

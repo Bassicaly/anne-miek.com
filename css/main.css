@@ -33,9 +33,9 @@ p{
 	display: flex;
 	flex-direction: column;
 }
-@media all and (min-width: 1000px) {
+@media screen and (max-width: 999px) {
 	#wrapper {
-		width: 1000px;
+		width: 100%;
 	}
 }
 #top_header{

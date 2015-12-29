@@ -16,7 +16,7 @@
 	<meta name="keywords" content="<?php print $keywords ?>">
     
     <!-- setup at least some compatability for mobile devices -->
-    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
 	
 	<link rel="stylesheet" href="/css/main.css">
 	<link rel="icon" type="image/png" href="/img/favicon.png">

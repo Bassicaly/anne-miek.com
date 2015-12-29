@@ -88,7 +88,7 @@ ul#navmenu, ul.sub1, ul.sub2 {
 	list-style-type: none;	
 }
 ul#navmenu li {
-	width: 121;
+	width: 129;
 	text-align: center;
 	position: relative;
 	float: left;
@@ -99,7 +99,7 @@ ul#navmenu li {
 ul#navmenu a {
 	text-decoration: none;
 	display: block;
-	width: 125px;
+	width: 133px;
 	height: 25px;
 	line-height: 25px;
 	background-color:#CCC;

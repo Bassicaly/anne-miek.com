@@ -1,17 +1,13 @@
 	<nav id="top_menu">
 		<ul id="navmenu">
 			<li><a href="/index.php">Home</a></li>
-			<li><a href="#">Osteopathie</a>
+			<li><a href="/osteopaat.php">Osteopathie</a>
 				<ul class="sub1">
-					<li><a href="/hoe.php">Hoe werkt het</a>
-						<ul class="sub2">
-							<li><a href="/geschiedenis.php">Geschiedenis</a></li>
-							<li><a href="/osteopaat.php">Osteopaat</a></li>
-						</ul>
-					</li>
+					<li><a href="/hoe.php">Hoe werkt het</a></li>
 					<li><a href="/onderzoekwatdoenwe.php">Onderzoek</a></li>
 					<li><a href="/behandelingwatgebeurter.php">Behandeling</a></li>
 					<li><a href="/wanneernaardeosteo.php">Welke Klachten</a></li>
+					<li><a href="/geschiedenis.php">Geschiedenis</a></li>
 				</ul>
 			</li>
 			<li><a href="#">Voor wie?</a>

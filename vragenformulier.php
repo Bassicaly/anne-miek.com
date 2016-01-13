@@ -19,114 +19,69 @@
 			<input type="hidden" name="EMAIL" />
 			<input type="hidden" name="SUBJECT" />
 			<h2>Vragenformulier</h2>
-			<p>Onderstaand treft u een groot aantal vragen aan die voor ons een waardevolle hulp zijn bij uw behandeling en bijdragen tot een optimaal behandelresultaat. Elke vraag is even belangrijk en geeft ons inzicht in uw klachten.</p>
-			<p>Indien u al een afspraak met ons heeft wilt u dan hieronder aangeven wanneer en hoe laat:</p>
+			<p>Onderstaand treft u een groot aantal vragen aan die voor mij een waardevolle hulp is bij uw behandeling en bijdragen tot een optimaal behandelresultaat. Elke vraag is even belangrijk en geeft mij inzicht in uw klachten.</p>
+			<p>Indien u al een afspraak heeft wilt u dan hieronder aangeven wanneer en hoe laat:</p>
 			<table style="width: 500px; height: 22px;" border="0">
 				<tbody>
-					<tr><td>U heeft een afspraak op :</td><td><input type="text" name="afspraakDatum" size="30" /></td></tr>
-					<tr><td>om :</td><td><input type="text" name="afspraakTijd" size="30" /> uur</td></tr>
+					<tr><td>U heeft een afspraak op :</td><td><input type="date" name="afspraakDatum" size="30" /><br />
+					<tr><td>om :</td><td><input type="time" name="afspraakTijd" size="30" /> uur<br />
 				</tbody>
 			</table>
 			<br /> <br />
-			<table width="700">
-				<tbody>
-					<tr><td>Datum</td><td><input type="text" name="Datum" size="30" /></td></tr>
-					<tr><td>Naam</td><td><input type="text" name="Naam" size="30" /></td></tr>
-					<tr><td valign="top">Adres</td><td><textarea name="Adres" rows="4" cols="40"></textarea> </td></tr>
-					<tr><td>Telefoon priv&eacute;</td><td><input type="text" name="Tel_prive" size="30" /> </td></tr>
-					<tr><td>werk</td><td><input type="text" name="Tel_werk" size="30" /> </td></tr>
-					<tr><td>mobiel</td><td><input type="text" name="Tel_mobiel" size="30" /> </td></tr>
-					<tr><td>E-mail adres</td><td><input type="text" name="E-mail" size="30" /> </td></tr>
-					<tr><td>Geboortedatum</td><td><input type="text" name="Geboortedatum" size="30" /> </td></tr>
-					<tr><td>Geslacht</td><td>Man <input type="radio" name="Geslacht" value="Man" /> Vrouw <input type="radio" name="Geslacht" value="Vrouw" /> </td></tr>
-					<tr><td>Huisarts</td><td><input type="text" name="Huisarts" size="30" /> </td></tr>
-					<tr><td>Hoe bent u bij Osteopathie Amsterdam gekomen?</td><td valign="top"><input type="text" name="Verwijzing" size="30" /></td></tr>
-				</tbody>
-			</table>
+			<fieldset>
+				<legend>Persoonlijke informatie</legend>
+				<input type="date" name="Datum" size="30" placeholder="Datum" /><br />
+				<input type="text" name="Naam" size="30" placeholder="Naam" /><br />
+				<input type="text" name="Adres" size="30" placeholder="Adres" /><br />
+				<input type="tel" name="Tel_prive" size="30" placeholder="Telefoon prive" /><br />
+				<input type="tel" name="Tel_werk" size="30" placeholder="Telefoon werk" /><br />
+				<input type="tel" name="Tel_mobiel" size="30" placeholder="Mobiel" /><br />
+				<input type="email" name="E-mail" size="30" placeholder="E-mail" /><br />
+				<input type="date" name="Geboortedatum" size="30" placeholder="Geboortedatum" /><br />
+				<input type="radio" name="Geslacht" value="Man" /> Man <input type="radio" name="Geslacht" value="Vrouw" /> Vrouw <input type="radio" name="Geslacht" value="Anders" /> Anders<br />
+				<input type="text" name="Huisarts" size="30" placeholder="Huisarts"/> <br />
+				<input type="text" name="Verwijzing" size="30" placeholder="Hoe bent u bij Osteopathie Amsterdam gekomen?"/><br />
+			</fieldset>
 			<p>&nbsp;</p>
-			<p>1 Voor welke klacht(en) komt u hier? (in volgorde van belangrijkheid)</p>
-			<p><textarea name="Voor welke klacht(en) komt u hier? (in volgorde van belangrijkheid)" rows="8" cols="70"></textarea></p>
+			<p>1 Voor welke klacht(en) komt u hier? (in volgorde van belangrijkheid)<br />
+			<textarea name="Voor welke klacht(en) komt u hier? (in volgorde van belangrijkheid)"></textarea></p>
 			<p>2 Wanneer zijn uw klachten begonnen? Jaar <input type="text" name="Klachten begonnen - jaar" size="4" /> maand <input type="text" name="Klachten begonnen - maand" size="10" /></p>
-			<p>3 Wat is naar uw mening de oorzaak van uw klachten?</p>
-			<p><textarea name="Wat is naar uw mening de oorzaak van uw klachten" rows="8" cols="70">    </textarea></p>
-			<p>4 Zijn er houdingen, bewegingen en/of andere zaken die de klachten verergeren?</p>
-			<p><textarea name="Zijn er houdingen, bewegingen en/of andere zaken die de klachten verergeren?" rows="8" cols="70"></textarea></p>
-			<p>5 Is er iets wat de klachten verminderd?</p>
-			<p><textarea name="Is er iets wat de klachten verminderd?" rows="8" cols="70"></textarea></p>
-			<p>6 Gebruikt u medicijnen? Welke? (ook de pil)</p>
-			<p><textarea name="Gebruikt u medicijnen? Welke? (ook de pil)" rows="8" cols="70"></textarea></p>
-			<p>7 Gebruikt u voedingssupplementen en/of volgt u een dieet?</p>
-			<p><textarea name="Gebruikt u voedingssupplementen en/of volgt u een dieet?" rows="8" cols="70">    </textarea></p>
-			<p>8 Bent u onder behandeling van een specialist (of geweest), en waarvoor?<br /> (Ook als dit niet in verband staat met deze klachten)</p>
-			<p><textarea name="Bent u onder behandeling van een specialist (of geweest), en waarvoor?" rows="8" cols="70"></textarea></p>
-			<p>9 Bent u onder behandeling van andere therapeuten, en waarvoor?</p>
-			<p><textarea name="Bent u onder behandeling van andere therapeuten, en waarvoor?" rows="8" cols="70"></textarea></p>
-			<p>10 Bent u wel eens ergens aan geopereerd? Zo ja, op welke leeftijd?</p>
-			<p><textarea name="Bent u wel eens ergens aan geopereerd? Zo ja, op welke leeftijd?" rows="8" cols="70"></textarea></p>
-			<p>11 Heeft u wel eens botten gebroken? Zo ja, op welke leeftijd?</p>
-			<p><textarea name="Heeft u wel eens botten gebroken? Zo ja, op welke leeftijd?" rows="8" cols="70"></textarea></p>
-			<p>12 Heeft u wel eens medische onderzoeken ondergaan (zoals bloed, darmen, R&ouml;ntgen enz.) <br /> en wat was de uitslag daarvan?</p>
-			<p><textarea name="Heeft u wel eens medische onderzoeken ondergaan (zoals bloed, darmen, Röntgen enz.) en wat was de uitslag daarvan?" rows="8" cols="70"></textarea></p>
-			<p>13 Werkt u, en zo ja, wat voor werk en hoe hoog is de lichamelijke belasting en psychische belasting?</p>
-			<p><textarea name="Werkt u, en zo ja, wat voor werk en hoe hoog is de lichamelijke belasting en psychische belasting?" rows="8" cols="70">    </textarea></p>
-			<p>14 Sport u? Welke, hoe vaak in de week en hoe lang?</p>
-			<p><textarea name="Sport u? Welke, hoe vaak in de week en hoe lang?" rows="8" cols="70">    </textarea></p>
-			<p>15 Heeft u nog andere hobby's?</p>
-			<p><textarea name="Heeft u nog andere hobby's?" rows="8" cols="70"></textarea></p>
-			<p>16 Zijn er erfelijke ziektes in de familie?</p>
-			<p><textarea name="Zijn er erfelijke ziektes in de familie?" rows="8" cols="70"></textarea></p>
-			<p>Beantwoord de hieronder gestelde vragen door het rondje zwart te maken in de juiste kolom. <br /> </p>
-			<div id="vragenlijst">
-				<p>Is uw slaappatroon de laatste tijd veranderd<span class="right"><input type="checkbox" name="Slaappatroon veranderd" /></span></p>
-			</div>
-			<br />
-			<table width="800" border="0">
-				<tbody>
-					<tr><td>&nbsp;</td><td>JA</td><td width="50">&nbsp;</td></tr>
-					<tr><td colspan="3"><strong>Algemeen welbevinden</strong></td></tr>
-					<tr><td>Is uw slaappatroon de laatste tijd veranderd</td>
-						<td><input type="checkbox" name="Slaappatroon veranderd" /></td>
-					</tr>
-					<tr><td>Is uw eetlust veranderd</td>
-						<td><input type="checkbox" name="Eetlust veranderd" /></td>
-					</tr>
-					<tr><td>Hebt u de laatste tijd gewicht verloren</td>
-						<td><input type="checkbox" name="Gewicht verloren" /></td>
-					</tr>
-					<tr><td>Bent u de laatste tijd meer prikkel-gevoelig en/of stressgevoelig</td>
-						<td><input type="checkbox" name="Laatste tijd stress" /></td>
-					</tr>
-					<tr><td>Heeft u last van pijnlijke en/of opgezette (lymfe)klieren</td>
-						<td><input type="checkbox" name="Pijnlijke klieren" /></td>
-					</tr>
-					<tr><td>Bent u de laatste tijd sneller vermoeid</td>
-						<td><input type="checkbox" name="De laatste tijd sneller vermoeid" /></td>
-					</tr>
-					<tr><td>Heeft u de laatste tijd net een infectie/ontsteking gehad</td>
-						<td><input type="checkbox" name="De laatste tijd infectie/ontsteking gehad" /></td>
-					</tr>
-					<tr><td>&nbsp;</td><td>JA</td><td width="50">&nbsp;</td></tr>
-					<tr><td colspan="3"><strong>Hart/bloedvaten</strong></td></tr>
-					<tr><td>Heeft u wel eens hartkloppingen</td>
-						<td><input type="checkbox" name="Wel eens hartkloppingen" /></td>
-					</tr>
-					<tr><td>Heeft u wel eens pijn op de borst</td>
-						<td><input type="checkbox" name="Pijn op de borst" /></td>
-					</tr>
-					<tr><td>Bent u bij/na inspanning kortademig</td>
-						<td><input type="checkbox" name="Kortademig" /></td>
-					</tr>
-					<tr><td>Herkent u wel eens zwelling aan uw been/benen</td>
-						<td><input type="checkbox" name="Zwelling been" /></td>
-					</tr>
-					<tr><td>Heeft u last van spataderen</td>
-						<td><input type="checkbox" name="Spataderen" /></td>
-					</tr>
-					<tr><td>Heeft u last van koude handen/voeten</td>
-						<td><input type="checkbox" name="Koude ledematen" /></td>
-					</tr>
-					<tr><td>&nbsp;</td><td>JA</td><td width="50">&nbsp;</td></tr>
-					<tr><td colspan="3"><strong>Longen</strong></td></tr>
+			<p>3 Wat is naar uw mening de oorzaak van uw klachten?<br /><textarea name="Wat is naar uw mening de oorzaak van uw klachten"></textarea></p>
+			<p>4 Zijn er houdingen, bewegingen en/of andere zaken die de klachten verergeren?<br /><textarea name="Zijn er houdingen, bewegingen en/of andere zaken die de klachten verergeren?"></textarea></p>
+			<p>5 Is er iets wat de klachten verminderd?<br /><textarea name="Is er iets wat de klachten verminderd?"></textarea></p>
+			<p>6 Gebruikt u medicijnen? Welke? (ook de pil)<br /><textarea name="Gebruikt u medicijnen? Welke? (ook de pil)"></textarea></p>
+			<p>7 Gebruikt u voedingssupplementen en/of volgt u een dieet?<br /><textarea name="Gebruikt u voedingssupplementen en/of volgt u een dieet?"></textarea></p>
+			<p>8 Bent u onder behandeling van een specialist (of geweest), en waarvoor?<br /> (Ook als dit niet in verband staat met deze klachten)<br /><textarea name="Bent u onder behandeling van een specialist (of geweest), en waarvoor?"></textarea></p>
+			<p>9 Bent u onder behandeling van andere therapeuten, en waarvoor?<br /><textarea name="Bent u onder behandeling van andere therapeuten, en waarvoor?"></textarea></p>
+			<p>10 Bent u wel eens ergens aan geopereerd? Zo ja, op welke leeftijd?<br /><textarea name="Bent u wel eens ergens aan geopereerd? Zo ja, op welke leeftijd?"></textarea></p>
+			<p>11 Heeft u wel eens botten gebroken? Zo ja, op welke leeftijd?<br /><textarea name="Heeft u wel eens botten gebroken? Zo ja, op welke leeftijd?"></textarea></p>
+			<p>12 Heeft u wel eens medische onderzoeken ondergaan (zoals bloed, darmen, R&ouml;ntgen enz.) <br /> en wat was de uitslag daarvan?<br /><textarea name="Heeft u wel eens medische onderzoeken ondergaan (zoals bloed, darmen, Röntgen enz.) en wat was de uitslag daarvan?"></textarea></p>
+			<p>13 Werkt u, en zo ja, wat voor werk en hoe hoog is de lichamelijke belasting en psychische belasting?<br /><textarea name="Werkt u, en zo ja, wat voor werk en hoe hoog is de lichamelijke belasting en psychische belasting?"></textarea></p>
+			<p>14 Sport u? Welke, hoe vaak in de week en hoe lang?<br /><textarea name="Sport u? Welke, hoe vaak in de week en hoe lang?"></textarea></p>
+			<p>15 Heeft u nog andere hobby's?<br /><textarea name="Heeft u nog andere hobby's?"></textarea></p>
+			<p>16 Zijn er erfelijke ziektes in de familie?<br /><textarea name="Zijn er erfelijke ziektes in de familie?"></textarea></p>
+			<p>Beantwoord de hieronder gestelde vragen door aan te vinken wat van toepassing is.<br /></p>
+			<fieldset>
+				<legend>Algemeen welbevinden</legend>
+				<input type="checkbox" name="Slaappatroon veranderd" />Is uw slaappatroon de laatste tijd veranderd<br />
+				<input type="checkbox" name="Eetlust veranderd" />Is uw eetlust veranderd<br />
+				<input type="checkbox" name="Gewicht verloren" />Hebt u de laatste tijd gewicht verloren<br />
+				<input type="checkbox" name="Laatste tijd stress" />Bent u de laatste tijd meer prikkel-gevoelig en/of stressgevoelig<br />
+				<input type="checkbox" name="Pijnlijke klieren" />Heeft u last van pijnlijke en/of opgezette (lymfe)klieren<br />
+				<input type="checkbox" name="De laatste tijd sneller vermoeid" />Bent u de laatste tijd sneller vermoeid<br />
+				<input type="checkbox" name="De laatste tijd infectie/ontsteking gehad" />Heeft u de laatste tijd net een infectie/ontsteking gehad<br />
+			</fieldset>
+			<fieldset>
+				<legend>Hart/bloedvaten</legend>
+				<input type="checkbox" name="Wel eens hartkloppingen" />Heeft u wel eens hartkloppingen<br />
+				<input type="checkbox" name="Pijn op de borst" />Heeft u wel eens pijn op de borst<br />
+				<input type="checkbox" name="Kortademig" />Bent u bij/na inspanning kortademig<br />
+				<input type="checkbox" name="Zwelling been" />Herkent u wel eens zwelling aan uw been/benen<br />
+				<input type="checkbox" name="Spataderen" />Heeft u last van spataderen<br />
+				<input type="checkbox" name="Koude ledematen" />Heeft u last van koude handen/voeten<br />
+			</fieldset>
+			<fieldset>
+				<legend>Longen</legend><br />
 					<tr><td>Heeft u het wel eens benauwd</td>
 						<td><input type="checkbox" name="Benauwd" /></td>
 					</tr>
@@ -142,8 +97,10 @@
 					<tr><td>Heeft u wel eens longontsteking gehad</td>
 						<td><input type="checkbox" name="Longontsteking" /></td>
 					</tr>
-					<tr><td>&nbsp;</td><td>JA</td><td width="50">&nbsp;</td></tr>
-					<tr><td colspan="3"><strong>Urinewegen</strong></td></tr>
+					<tr><td>&nbsp;</td><td>JA</td><td width="50">&nbsp;<br />
+			</fieldset>
+			<fieldset>
+				<legend>Urinewegen</legend><br />
 					<tr><td>Heeft u pijn bij het plassen</td>
 						<td><input type="checkbox" name="Pijn bij plassen" /></td>
 					</tr>
@@ -165,8 +122,9 @@
 					<tr><td>Heeft u wel eens bloed bij de urine</td>
 						<td><input type="checkbox" name="Heeft wel eens bloed bij de urine" /></td>
 					</tr>
-					<tr><td>&nbsp;</td><td>JA</td><td width="50">&nbsp;</td></tr>
-					<tr><td colspan="3"><strong>Spijsvertering</strong></td></tr>
+					<tr><td>&nbsp;</td><td>JA</td><td width="50">&nbsp;<br />
+			</fieldset>
+			<strong>Spijsvertering</strong><br />
 					<tr><td>Heeft u een voedsel allergie/allergie&euml;n</td>
 						<td><input type="checkbox" name="Heeft een voedsel allergie/allergieën" /></td>
 					</tr>
@@ -188,9 +146,9 @@
 					<tr><td>Heeft u vaak last van een opgeblazen gevoel</td>
 						<td><input type="checkbox" name="Opgeblazen gevoel" /></td>
 					</tr>
-					<tr><td>&nbsp;</td><td>JA</td><td width="50">&nbsp;</td></tr>
-					<tr><td colspan="3"><strong>Eten en drinken</strong></td></tr>
-					<tr><td colspan="3">Bemerkt u verteringsproblemen bij het eten van een van de volgende produkten:</td></tr>
+					<tr><td>&nbsp;</td><td>JA</td><td width="50">&nbsp;<br />
+					<tr><td colspan="3"><strong>Eten en drinken</strong><br />
+					<tr><td colspan="3">Bemerkt u verteringsproblemen bij het eten van een van de volgende produkten:<br />
 					<tr><td>Aardappelen en/of tomaten</td>
 						<td><input type="checkbox" name="Aardappelen" /></td>
 					</tr>
@@ -209,8 +167,8 @@
 					<tr><td>Zuivelprodukten</td>
 						<td><input type="checkbox" name="Zuivelprodukten" /></td>
 					</tr>
-					<tr><td>&nbsp;</td><td>JA</td><td width="50">&nbsp;</td></tr>
-					<tr><td colspan="3"><strong>Zenuwstelsel</strong></td></tr>
+					<tr><td>&nbsp;</td><td>JA</td><td width="50">&nbsp;<br />
+					<tr><td colspan="3"><strong>Zenuwstelsel</strong><br />
 					<tr><td>Heeft u wel eens krachtverlies in armen of benen</td>
 						<td><input type="checkbox" name="Krachtsverlies in armen of benen" /></td>
 					</tr>
@@ -232,8 +190,8 @@
 					<tr><td>Bent u epileptisch</td>
 						<td><input type="checkbox" name="Epileptisch" /></td>
 					</tr>
-					<tr><td>&nbsp;</td><td>JA</td><td width="50">&nbsp;</td></tr>
-					<tr><td colspan="3"><strong>Zintuigen</strong></td></tr>
+					<tr><td>&nbsp;</td><td>JA</td><td width="50">&nbsp;<br />
+					<tr><td colspan="3"><strong>Zintuigen</strong><br />
 					<tr><td>Heeft u wel eens het gevoel op watten te lopen</td>
 						<td><input type="checkbox" name="Watten lopen" /></td>
 					</tr>
@@ -249,8 +207,8 @@
 					<tr><td>Heeft u problemen met ruiken</td>
 						<td><input type="checkbox" name="Kan goed ruiken" /></td>
 					</tr>
-					<tr><td>&nbsp;</td><td>JA</td><td width="50">&nbsp;</td></tr>
-					<tr><td colspan="3"><strong>Geopathische belasting</strong></td></tr>
+					<tr><td>&nbsp;</td><td>JA</td><td width="50">&nbsp;<br />
+					<tr><td colspan="3"><strong>Geopathische belasting</strong><br />
 					<tr><td>Heeft u een waterbed</td>
 						<td><input type="checkbox" name="Heeft waterbed" /></td>
 					</tr>
@@ -263,8 +221,8 @@
 					<tr><td>Woont u bij/onder hoogspanningsmasten</td>
 						<td><input type="checkbox" name="Woont bij hoogspanningsmasten" /></td>
 					</tr>
-					<tr><td>&nbsp;</td><td>JA</td><td width="50">&nbsp;</td></tr>
-					<tr><td colspan="3"><strong>Psyche/stress</strong></td></tr>
+					<tr><td>&nbsp;</td><td>JA</td><td width="50">&nbsp;<br />
+					<tr><td colspan="3"><strong>Psyche/stress</strong><br />
 					<tr><td>Heeft u moeite zich te concentreren</td>
 						<td><input type="checkbox" name="Moeite met concentreren" /></td>
 					</tr>
@@ -337,8 +295,8 @@
 					<tr><td>Vindt u het moeilijk om zich een voorstelling te maken hoe uw leven er over 5 jaar uit ziet</td>
 						<td><input type="checkbox" name="Vindt het moeilijk om zich een voorstelling te maken hoe leven er over 5 jaar uit ziet" /></td>
 					</tr>
-					<tr><td>&nbsp;</td><td>JA</td><td width="50">&nbsp;</td></tr>
-					<tr><td colspan="3"><strong>Divers</strong></td></tr>
+					<tr><td>&nbsp;</td><td>JA</td><td width="50">&nbsp;<br />
+					<tr><td colspan="3"><strong>Divers</strong><br />
 					<tr><td>Heeft u problemen met uw gebit/tanden</td>
 						<td><input type="checkbox" name="Problemen met uw gebit/tanden"  /></td>
 					</tr>
@@ -357,8 +315,8 @@
 					<tr><td>Rookt u</td>
 						<td><input type="checkbox" name="Rookt"  /></td>
 					</tr>
-					<tr><td>&nbsp;</td><td>JA</td><td width="50">&nbsp;</td></tr>
-					<tr><td colspan="3"><strong>Alleen in te vullen door vrouwen</strong></td></tr>
+					<tr><td>&nbsp;</td><td>JA</td><td width="50">&nbsp;<br />
+					<tr><td colspan="3"><strong>Alleen in te vullen door vrouwen</strong><br />
 					<tr><td>Bent u wel eens zwanger geweest</td>
 						<td><input type="checkbox" name="Wel eens zwanger geweest" /></td>
 					</tr>

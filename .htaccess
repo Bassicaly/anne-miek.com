@@ -1,5 +1,5 @@
 # 480 weeks
-<FilesMatch "\.(ico|pdf|flv|jpg|jpeg|png|gif|js|swf)$">
+<FilesMatch "\.(ico|pdf|flv|jpg|jpeg|png|gif|js|css|swf)$">
 Header set Cache-Control "max-age=290304000, public"
 </FilesMatch>
  
@@ -9,6 +9,10 @@ Header set Cache-Control "max-age=172800, public, must-revalidate"
 </FilesMatch>
  
 # 2 HOURS
-<FilesMatch "\.(html|htm|css|php)$">
+<FilesMatch "\.(html|htm|php)$">
 Header set Cache-Control "max-age=7200, must-revalidate"
 </FilesMatch>
+
+RewriteEngine on
+#CSS/JS auto-versioning
+RewriteRule ^(.*)\.[\d]{10}\.(css)$ $1.$2 [L]

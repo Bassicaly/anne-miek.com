@@ -33,9 +33,21 @@ p{
 	display: flex;
 	flex-direction: column;
 }
-textarea {
+fieldset {
+	padding: .5em;
+	margin-bottom: 1em;
+}
+legend {
+	margin-left: 1em;
+	margin-bottom: .5em;
+}
+.open_vragen label {
+	margin: 0 .3em;
+}
+.open_vragen textarea {
 	min-height: 4em;
-	min-width: 80%;
+	min-width: 90%;
+	margin: .3em .3em;
 }
 @media screen and (max-width: 999px) {
 	#wrapper {

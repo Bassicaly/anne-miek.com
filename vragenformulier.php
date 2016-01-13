@@ -21,12 +21,11 @@
 			<h2>Vragenformulier</h2>
 			<p>Onderstaand treft u een groot aantal vragen aan die voor mij een waardevolle hulp is bij uw behandeling en bijdragen tot een optimaal behandelresultaat. Elke vraag is even belangrijk en geeft mij inzicht in uw klachten.</p>
 			<p>Indien u al een afspraak heeft wilt u dan hieronder aangeven wanneer en hoe laat:</p>
-			<table style="width: 500px; height: 22px;" border="0">
-				<tbody>
-					<tr><td>U heeft een afspraak op :</td><td><input type="date" name="afspraakDatum" size="30" /><br />
-					<tr><td>om :</td><td><input type="time" name="afspraakTijd" size="30" /> uur<br />
-				</tbody>
-			</table>
+			<fieldset>
+				<legend>Uw afspraak</legend>
+				<label for="afspraak">U heeft een afspraak op :</label><input type="date" id="afspraak" name="afspraakDatum" size="30" /><br />
+				<label for="om">om :</label><input type="time" id="om" name="afspraakTijd" size="30" /> uur<br />
+			</fieldset>
 			<br /> <br />
 			<fieldset>
 				<legend>Persoonlijke informatie</legend>
@@ -42,12 +41,16 @@
 				<input type="text" name="Huisarts" size="30" placeholder="Huisarts"/> <br />
 				<input type="text" name="Verwijzing" size="30" placeholder="Hoe bent u bij Osteopathie Amsterdam gekomen?"/><br />
 			</fieldset>
-			<p>&nbsp;</p>
-			<p>1 Voor welke klacht(en) komt u hier? (in volgorde van belangrijkheid)<br />
-			<textarea name="Voor welke klacht(en) komt u hier? (in volgorde van belangrijkheid)"></textarea></p>
-			<p>2 Wanneer zijn uw klachten begonnen? Jaar <input type="text" name="Klachten begonnen - jaar" size="4" /> maand <input type="text" name="Klachten begonnen - maand" size="10" /></p>
-			<p>3 Wat is naar uw mening de oorzaak van uw klachten?<br /><textarea name="Wat is naar uw mening de oorzaak van uw klachten"></textarea></p>
-			<p>4 Zijn er houdingen, bewegingen en/of andere zaken die de klachten verergeren?<br /><textarea name="Zijn er houdingen, bewegingen en/of andere zaken die de klachten verergeren?"></textarea></p>
+			<br />
+			<fieldset>
+				<legend>Uw klachten</legend>
+			<label for="1">1 Voor welke klacht(en) komt u hier? (in volgorde van belangrijkheid)</label><br />
+			<textarea id="1" name="Voor welke klacht(en) komt u hier? (in volgorde van belangrijkheid)"></textarea><br />
+			<label for="2">2 Wanneer zijn uw klachten begonnen? Maand <input id="2" type="month" name="Klachten begonnen" /> jaar<br />
+			<label for="3">3 Wat is naar uw mening de oorzaak van uw klachten?</label><br />
+			<textarea id="3" name="Wat is naar uw mening de oorzaak van uw klachten"></textarea><br />
+			<label for="4">4 Zijn er houdingen, bewegingen en/of andere zaken die de klachten verergeren?</label><br />
+			<textarea id="4" name="Zijn er houdingen, bewegingen en/of andere zaken die de klachten verergeren?"></textarea><br />
 			<p>5 Is er iets wat de klachten verminderd?<br /><textarea name="Is er iets wat de klachten verminderd?"></textarea></p>
 			<p>6 Gebruikt u medicijnen? Welke? (ook de pil)<br /><textarea name="Gebruikt u medicijnen? Welke? (ook de pil)"></textarea></p>
 			<p>7 Gebruikt u voedingssupplementen en/of volgt u een dieet?<br /><textarea name="Gebruikt u voedingssupplementen en/of volgt u een dieet?"></textarea></p>
@@ -60,6 +63,7 @@
 			<p>14 Sport u? Welke, hoe vaak in de week en hoe lang?<br /><textarea name="Sport u? Welke, hoe vaak in de week en hoe lang?"></textarea></p>
 			<p>15 Heeft u nog andere hobby's?<br /><textarea name="Heeft u nog andere hobby's?"></textarea></p>
 			<p>16 Zijn er erfelijke ziektes in de familie?<br /><textarea name="Zijn er erfelijke ziektes in de familie?"></textarea></p>
+			</fieldset>
 			<p>Beantwoord de hieronder gestelde vragen door aan te vinken wat van toepassing is.<br /></p>
 			<fieldset>
 				<legend>Algemeen welbevinden</legend>

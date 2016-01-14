@@ -161,29 +161,29 @@
 			<fieldset>
 				<legend>Psyche/stress</legend>
 				<input type="checkbox" id="psyche_concentreren" name="psyche_concentreren" /><label for="psyche_concentreren">Heeft u moeite zich te concentreren</label><br>
-				<input type="checkbox" id="psyche_" name="Wordt niet uitgerust wakker" /><label for="">Voelt u zich niet uitgerust als u wakker wordt</label><br>
-				<input type="checkbox" id="psyche_" name="Heeft problemen met in slaap komen" /><label for="">Heeft u problemen om in slaap te komen</label><br>
-				<input type="checkbox" id="psyche_" name="Heeft vaak last van nare dromen" /><label for="">Heeft u vaak last van nare dromen</label><br>
-				<input type="checkbox" id="psyche_" name="Heeft neiging zichzelf onder druk te zetten" /><label for="">Heeft u de neiging uzelf onder druk te zetten</label><br>
-				<input type="checkbox" id="psyche_" name="Vaak somber/gedeprimeerd" /><label for="">Bent u vaak somber/gedeprimeerd</label><br>
-				<input type="checkbox" id="psyche_" name="Moeilijk ontspannen" /><label for="">Kunt u zich moeilijk ontspannen</label><br>
-				<input type="checkbox" id="psyche_" name="Ooit gemediteerd" /><label for="">Heeft u ooit gemediteerd</label><br>
-				<input type="checkbox" id="psyche_" name="Moet meer voor uzelf opkomen" /><label for="">Heeft u het idee dat u meer voor uzelf moet opkomen</label><br>
-				<input type="checkbox" id="psyche_" name="Heeft neiging snel uit slof te schieten" /><label for="">Heeft u de neiging om snel uit uw slof te schieten</label><br>
-				<input type="checkbox" id="psyche_" name="Raakt snel overstuur" /><label for="">Raakt u snel overstuur</label><br>
-				<input type="checkbox" id="psyche_" name="Plant veel vooruit" /><label for="">Heeft u de neiging om veel vooruit te plannen</label><br>
-				<input type="checkbox" id="psyche_" name="Wisselvallige stemmingen" /><label for="">Zijn uw stemmingen vaak wisselvallig</label><br>
-				<input type="checkbox" id="psyche_" name="Heeft behoefte aan controle" /><label for="">Heeft u veel behoefte aan controle</label><br>
-				<input type="checkbox" id="psyche_" name="Voelt snel paniekerig en angstig" /><label for="">Voelt u zich snel paniekerig en angstig</label><br>
-				<input type="checkbox" id="psyche_" name="Heeft idee werk niet aan te kunnen" /><label for="">Heeft u het idee uw werk niet goed aan te kunnen</label><br>
-				<input type="checkbox" id="psyche_" name="Is er niet helemaal bij" /><label for="">Heeft u soms het idee er niet echt bij te zijn en het leven als een film te beleven</label><br>
-				<input type="checkbox" id="psyche_" name="Ontevreden over contacten" /><label for="">Bent u ontevreden met uw sociale contacten</label><br>
-				<input type="checkbox" id="psyche_" name="Neiging conflicten te vermijden" /><label for="">Heeft u de neiging om conflicten te vermijden</label><br>
-				<input type="checkbox" id="psyche_" name="Niet genoeg initiatief" /><label for="">Heeft u het idee niet genoeg initiatieven te nemen</label><br>
-				<input type="checkbox" id="psyche_" name="Vooral bewust negatieve eigenschappen" /><label for="">Bent u zich vooral bewust van uw negatieve eigenschappen</label><br>
-				<input type="checkbox" id="psyche_" name="Gedragspatronen herhalen" /><label for="">Kunt u zien dat bepaalde gedragspatronen zich herhalen in uw leven</label><br>
-				<input type="checkbox" id="psyche_" name="Onvoldoende bevestiging" /><label for="">Heeft u het idee onvoldoende bevestiging in uw leven</label><br>
-				<input type="checkbox" id="psyche_" name="Vindt het moeilijk om zich een voorstelling te maken hoe leven er over 5 jaar uit ziet" /><label for="">Vindt u het moeilijk om zich een voorstelling te maken hoe uw leven er over 5 jaar uit ziet</label><br>
+				<input type="checkbox" id="psyche_niet_uitgerust" name="psyche_niet_uitgerust" /><label for="psyche_niet_uitgerust">Voelt u zich niet uitgerust als u wakker wordt</label><br>
+				<input type="checkbox" id="psyche_inslapen" name="psyche_inslapen" /><label for="psyche_inslapen">Heeft u problemen om in slaap te komen</label><br>
+				<input type="checkbox" id="psyche_nare_dromen" name="psyche_nare_dromen" /><label for="psyche_nare_dromen">Heeft u vaak last van nare dromen</label><br>
+				<input type="checkbox" id="psyche_druk_zetten" name="psyche_druk_zetten" /><label for="psyche_druk_zetten">Heeft u de neiging uzelf onder druk te zetten</label><br>
+				<input type="checkbox" id="psyche_somber" name="psyche_somber" /><label for="psyche_somber">Bent u vaak somber/gedeprimeerd</label><br>
+				<input type="checkbox" id="psyche_moeilijk_ontspannen" name="psyche_moeilijk_ontspannen" /><label for="psyche_moeilijk_ontspannen">Kunt u zich moeilijk ontspannen</label><br>
+				<input type="checkbox" id="psyche_meditatie" name="psyche_meditatie" /><label for="psyche_meditatie">Heeft u ooit gemediteerd</label><br>
+				<input type="checkbox" id="psyche_opkomen" name="psyche_opkomen" /><label for="psyche_opkomen">Heeft u het idee dat u meer voor uzelf moet opkomen</label><br>
+				<input type="checkbox" id="psyche_heethoofdig" name="psyche_heethoofdig" /><label for="psyche_heethoofdig">Heeft u de neiging om snel uit uw slof te schieten</label><br>
+				<input type="checkbox" id="psyche_overstuur" name="psyche_overstuur" /><label for="psyche_overstuur">Raakt u snel overstuur</label><br>
+				<input type="checkbox" id="psyche_planner" name="psyche_planner" /><label for="psyche_planner">Heeft u de neiging om veel vooruit te plannen</label><br>
+				<input type="checkbox" id="psyche_stemming_wissel" name="psyche_stemming_wissel" /><label for="psyche_stemming_wissel">Zijn uw stemmingen vaak wisselvallig</label><br>
+				<input type="checkbox" id="psyche_controle" name="psyche_controle" /><label for="psyche_controle">Heeft u veel behoefte aan controle</label><br>
+				<input type="checkbox" id="psyche_paniekerig" name="psyche_paniekerig" /><label for="psyche_paniekerig">Voelt u zich snel paniekerig en angstig</label><br>
+				<input type="checkbox" id="psyche_werk_niet_aan_kunnen" name="psyche_werk_niet_aan_kunnen" /><label for="psyche_werk_niet_aan_kunnen">Heeft u het idee uw werk niet goed aan te kunnen</label><br>
+				<input type="checkbox" id="psyche_niet_bij" name="psyche_niet_bij" /><label for="psyche_niet_bij">Heeft u soms het idee er niet echt bij te zijn en het leven als een film te beleven</label><br>
+				<input type="checkbox" id="psyche_sociale_contacten" name="psyche_sociale_contacten" /><label for="psyche_sociale_contacten">Bent u ontevreden met uw sociale contacten</label><br>
+				<input type="checkbox" id="psyche_conflict_vermijden" name="psyche_conflict_vermijden" /><label for="psyche_conflict_vermijden">Heeft u de neiging om conflicten te vermijden</label><br>
+				<input type="checkbox" id="psyche_initiatief" name="psyche_initiatief" /><label for="psyche_initiatief">Heeft u het idee niet genoeg initiatieven te nemen</label><br>
+				<input type="checkbox" id="psyche_negatieve_eigenschappen" name="psyche_negatieve_eigenschappen" /><label for="psyche_negatieve_eigenschappen">Bent u zich vooral bewust van uw negatieve eigenschappen</label><br>
+				<input type="checkbox" id="psyche_patroon_herhalen" name="psyche_patroon_herhalen" /><label for="psyche_patroon_herhalen">Kunt u zien dat bepaalde gedragspatronen zich herhalen in uw leven</label><br>
+				<input type="checkbox" id="psyche_bevestiging" name="psyche_bevestiging" /><label for="psyche_bevestiging">Heeft u het idee onvoldoende bevestiging in uw leven</label><br>
+				<input type="checkbox" id="psyche_over_5_jaar" name="psyche_over_5_jaar" /><label for="psyche_over_5_jaar">Vindt u het moeilijk om zich een voorstelling te maken hoe uw leven er over 5 jaar uit ziet</label><br>
 			</fieldset>
 			<fieldset>
 				<legend>Divers</legend>
@@ -194,7 +194,7 @@
 				<input type="checkbox" id="div_piercings" name="div_piercings" /><label for="div_piercings">Heeft u piercings</label><br>
 				<input type="checkbox" id="div_rookt" name="div_rookt" /><label for="div_rookt">Rookt u</label><br>
 			</fieldset>
-			<fieldset>
+			<fieldset class="vrouw">
 				<legend>Alleen in te vullen door vrouwen</legend>
 				<input type="checkbox" id="vrouw_zwanger" name="vrouw_zwanger" /><label for="vrouw_zwanger">Bent u wel eens zwanger geweest</label><br>
 				<input type="checkbox" id="vrouw_keizersnede" name="vrouw_keizersnede" /><label for="vrouw_keizersnede">Heeft u al eens een keizersnede ondergaan</label><br>

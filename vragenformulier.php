@@ -28,13 +28,13 @@
 			</fieldset>
 			<fieldset>
 				<legend>Persoonlijke informatie</legend>
-				<input type="date" name="Datum" size="30" placeholder="Datum" /><br>
-				<input type="text" name="Naam" size="30" placeholder="Naam" /><br>
-				<input type="text" name="Adres" size="30" placeholder="Adres" /><br>
+				<label for="voornaam">Uw voornaam</label><input type="text" required id="voornaam" name="voornaam" size="30" placeholder="Voornaam"><br>
+				<label for="achternaam">Uw achternaam</label><input type="text" required id="achternaam" name="achternaam" size="30" placeholder="Achternaam"><br>
+				<input type="text" id="Adres" name="Adres" size="30" placeholder="Adres"><br>
 				<input type="tel" name="Tel_prive" size="30" placeholder="Telefoon prive" /><br>
 				<input type="tel" name="Tel_werk" size="30" placeholder="Telefoon werk" /><br>
 				<input type="tel" name="Tel_mobiel" size="30" placeholder="Mobiel" /><br>
-				<input type="email" name="E-mail" size="30" placeholder="E-mail" /><br>
+				<input type="email" pattern="[A-Z0-9._%+-]+@(?:[A-Z0-9-]+\.)+[A-Z]{2,6}" name="E-mail" size="30" placeholder="E-mail" /><br>
 				<input type="date" name="Geboortedatum" size="30" placeholder="Geboortedatum" /><br>
 				<input type="radio" name="Geslacht" value="Man" /> Man <input type="radio" name="Geslacht" value="Vrouw" /> Vrouw <input type="radio" name="Geslacht" value="Anders" /> Anders<br>
 				<input type="text" name="Huisarts" size="30" placeholder="Huisarts"/> <br>

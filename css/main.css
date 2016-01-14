@@ -42,12 +42,18 @@ legend {
 	margin-bottom: .5em;
 }
 .open_vragen label {
-	margin: 0 .3em;
 }
 .open_vragen textarea {
 	min-height: 4em;
 	min-width: 90%;
-	margin: .3em .3em;
+	margin: .3em 0;
+}
+.checklist label {
+	cursor: pointer;
+	padding-left: 4px;
+}
+.checklist input[type="checkbox"]{
+	cursor: pointer;
 }
 @media screen and (max-width: 999px) {
 	#wrapper {

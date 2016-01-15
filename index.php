@@ -1,7 +1,7 @@
 <?php
 	$INC_DIR = $_SERVER["DOCUMENT_ROOT"]. "/inc/";
 	$title = "Anne-Miek Osteopathie";
-	$description = "Osteopathie: een veilige geneeswijze die meedenkt met uw lichaam en u helpt bij herstellen van klachten. Anne-Mie de Nijs in Amsterdam";
+	$description = "Osteopathie: een veilige geneeswijze die meedenkt met uw lichaam en u helpt bij herstellen van klachten. Anne-Miek de Nijs in Amsterdam";
 	$keywords = "osteopathie amsterdam geschikt voor iedereen geneeswijze zachte behandeltechnieken";
 ?>
 

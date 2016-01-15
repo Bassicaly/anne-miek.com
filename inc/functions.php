@@ -16,8 +16,4 @@
       $mtime = filemtime($_SERVER['DOCUMENT_ROOT'] . $file);
       return preg_replace('%\.([^./]+)$%m', ".$mtime.\$1", $file);
     }
-    
-    function phpAlert($msg) {
-        echo '<script type="text/javascript">alert("' . $msg . '")</script>';
-    }
 ?>

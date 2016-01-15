@@ -1,3 +1,5 @@
+<?php require($INC_DIR. "functions.php"); ?>
+
 <!DOCTYPE html>
 
 <html lang="nl">
@@ -18,11 +20,10 @@
     <!-- setup at least some compatability for mobile devices -->
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 	
-	<link rel="stylesheet" href="/css/main.css">
+	<link rel="stylesheet" href="<?=auto_version('/css/main.css')?>">
 	<link rel="icon" type="image/png" href="/img/favicon.png">
 	<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
 	<script src="/js/modernizr.custom.25710.js"></script>
-	<!-- <script src="/js/thirdparty/kenburns.js"></script> -->
 </head>
 
 <body>

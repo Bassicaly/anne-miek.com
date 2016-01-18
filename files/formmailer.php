@@ -19,7 +19,12 @@ Welcome <?php echo $_POST["voornaam"]; ?> <?php echo $_POST["achternaam"]; ?><br
 Your email address is: <?php echo $_POST["E-mail"]; ?><br>
 <br>
 And this is hopefully all the POST data:<br>
-<?php print_r($_POST); ?>
+<?php print_r($_POST); ?><br>
+<?php
+    while (list($var, $val) = each($_POST)) {
+        print "$var is $val\n";
+    }
+?>
 <!-- EINDE INHOUD-->
 	</section>
 	

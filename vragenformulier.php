@@ -16,8 +16,6 @@
 	<section id="main_section">
 	<!-- START INHOUD-->
 		<form action="/files/formmailer.php" method="post" name="REG"><!--- e-mail address of the person handling this form --->
-			<input type="hidden" name="EMAIL" />
-			<input type="hidden" name="SUBJECT" />
 			<h2>Vragenformulier</h2>
 			<p>Onderstaand treft u een groot aantal vragen aan die voor mij een waardevolle hulp is bij uw behandeling en bijdragen tot een optimaal behandelresultaat. Elke vraag is even belangrijk en geeft mij inzicht in uw klachten.</p>
 			<p>Indien u al een afspraak heeft wilt u dan hieronder aangeven wanneer en hoe laat:</p>
@@ -34,7 +32,7 @@
 				<input type="tel" name="Tel_prive" size="30" placeholder="Telefoon prive" /><br>
 				<input type="tel" name="Tel_werk" size="30" placeholder="Telefoon werk" /><br>
 				<input type="tel" name="Tel_mobiel" size="30" placeholder="Mobiel" /><br>
-				<input type="email" pattern="[A-Z0-9._%+-]+@(?:[A-Z0-9-]+\.)+[A-Z]{2,6}" name="E-mail" size="30" placeholder="E-mail" /><br>
+				<input type="email" required name="E-mail" size="30" placeholder="E-mail" /><br>
 				<input type="date" name="Geboortedatum" size="30" placeholder="Geboortedatum" /><br>
 				<input type="radio" name="Geslacht" value="Man" /> Man <input type="radio" name="Geslacht" value="Vrouw" /> Vrouw <input type="radio" name="Geslacht" value="Anders" /> Anders<br>
 				<input type="text" name="Huisarts" size="30" placeholder="Huisarts"/> <br>

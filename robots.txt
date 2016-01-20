@@ -1,4 +1,4 @@
 User-Agent: *
 Disallow:
 
-Sitemap: http://www.anne-miek.com/sitemap.xml
+Sitemap: https://www.anne-miek.com/sitemap.xml

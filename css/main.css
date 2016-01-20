@@ -41,6 +41,9 @@ legend {
 	margin-left: 1em;
 	margin-bottom: .5em;
 }
+.personal input:focus {
+	background: #fc9fff;
+}
 .open_vragen label {
 }
 .open_vragen textarea {

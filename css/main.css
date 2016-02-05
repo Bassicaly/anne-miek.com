@@ -106,6 +106,29 @@ legend {
 	padding: 20px;
 	border-top: 2px solid black;
 }
+#top_menu > a {
+	display: none;
+}
+#top_menu li {
+	position: relative;
+}
+#top_menu > ul {
+	height: 3.75em;
+}
+#top_menu > ul > li {
+	width: 14.2%;
+	height: 100%;
+	float: left;
+}
+#top_menu li ul {
+	display: none;
+	position: absolute;
+	top: 100%;
+}
+#top_menu li:hover ul {
+	display: block;
+}
+/*
 ul#navmenu, ul.sub1, ul.sub2 {
 	list-style-type: none;
 	max-height: 0;
@@ -136,9 +159,11 @@ ul#navmenu .sub2 a {
 }
 ul#navmenu li:hover > a {
 	background-color: #44382C; /* color when subs are 'active' */
+/*
 }
 ul#navmenu li:hover a:hover {
 	background-color: rgba(255,193,0,0.8); /* color when hovering over 'button' */
+/*
 }
 ul#navmenu ul.sub1 {
 	display: none;
@@ -158,6 +183,7 @@ ul#navmenu li:hover .sub1 {
 ul#navmenu .sub1 li:hover .sub2 {
 	display: block;
 }
+*/
 div#vragenlijst {
 	width: 100%;
 }
@@ -212,6 +238,31 @@ div#vragenlijst p:hover {
 	}
 	#top_header h1 {
 	}
+	#top_menu {
+		position: relative;
+	}
+	#top_menu:not( :target ) > a:first-of-type,
+	#top_menu:target > a:last-of-type {
+		display: block;
+	}
+	#top_menu > ul {
+		height: auto;
+		display: none;
+		position: absolute;
+		left: 0;
+		right: 0;
+	}
+	#top_menu:target > ul {
+		display: block;
+	}
+	#top_menu > ul > li {
+		width: 100%;		
+		float: none;
+	}
+	#top_menu li ul {
+		position: static;
+	}
+	/*
 	ul#navmenu li {
 		width: 100%;
 		text-align: left;
@@ -229,9 +280,11 @@ div#vragenlijst p:hover {
 	}
 	ul#navmenu li:hover > a {
 		background-color: #44382C; /* color when subs are 'active' */
+	/*
 	}
 	ul#navmenu li:hover a:hover {
 		background-color: rgba(255,193,0,0.8); /* color when hovering over 'button' */
+	/*
 	}
 	ul#navmenu ul.sub1 {
 		display: none;
@@ -251,4 +304,5 @@ div#vragenlijst p:hover {
 	ul#navmenu .sub1 li:hover .sub2 {
 		display: block;
 	}
+	*/
 }

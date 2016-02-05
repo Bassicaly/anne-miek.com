@@ -1,1 +1,0 @@
-7z a -r -y -x@AM_Exclude.txt anne-miek.com.zip ..\*.*

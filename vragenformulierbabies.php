@@ -11,7 +11,7 @@
 
 <?php require($INC_DIR. "header.php"); ?>
 
-<?php require($INC_DIR. "logonav.php"); ?>
+<?php require($INC_DIR. "nav.php"); ?>
 
 	<section id="main_section">
 	<!-- START INHOUD--><form action="http://www.osteopathieamsterdam.nl/5231233formmailer.php" method="post" name="REG"><input type="hidden" name="SUBJECT" />

@@ -30,5 +30,6 @@
 	<div id="wrapper">
 		<div class="attention"><?php require($INC_DIR. "attention.php"); ?></div>
 		<header id="top_header">
+			<img src="img/bloeminhandenheader.png" alt="bloem in handen">
 			<h1>Anne-Miek Osteopathie</h1>
 		</header>

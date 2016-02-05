@@ -6,7 +6,7 @@
 
 <?php require($INC_DIR. "header1.php"); ?>
 
-<?php require($INC_DIR. "logonav.php"); ?>
+<?php require($INC_DIR. "nav.php"); ?>
 
 	<section id="main_section">
 		<?php require($INC_DIR. "old.php"); ?>

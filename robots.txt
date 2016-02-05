@@ -1,4 +1,8 @@
 User-Agent: *
-Disallow:
+Disallow: /server-status
+Disallow: /indexen.html
+Disallow: /mobile/
+Disallow: /m/
+
 
 Sitemap: https://www.anne-miek.com/sitemap.xml

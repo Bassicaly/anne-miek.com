@@ -33,6 +33,31 @@ p{
 	display: flex;
 	flex-direction: column;
 }
+fieldset {
+	padding: .5em;
+	margin-bottom: 1em;
+}
+legend {
+	margin-left: 1em;
+	margin-bottom: .5em;
+}
+.personal input:focus {
+	background: #fc9fff;
+}
+.open_vragen label {
+}
+.open_vragen textarea {
+	min-height: 4em;
+	min-width: 90%;
+	margin: .3em 0;
+}
+.checklist label {
+	cursor: pointer;
+	padding-left: 4px;
+}
+.checklist input[type="checkbox"]{
+	cursor: pointer;
+}
 @media screen and (max-width: 999px) {
 	#wrapper {
 		width: 100%;

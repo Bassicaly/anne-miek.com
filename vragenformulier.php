@@ -16,8 +16,6 @@
 	<section id="main_section">
 	<!-- START INHOUD-->
 		<form action="/files/formmailer.php" method="post" name="REG"><!--- e-mail address of the person handling this form --->
-			<input type="hidden" name="EMAIL" />
-			<input type="hidden" name="SUBJECT" />
 			<h2>Vragenformulier</h2>
 			<p>Onderstaand treft u een groot aantal vragen aan die voor mij een waardevolle hulp is bij uw behandeling en bijdragen tot een optimaal behandelresultaat. Elke vraag is even belangrijk en geeft mij inzicht in uw klachten.</p>
 			<p>Indien u al een afspraak heeft wilt u dan hieronder aangeven wanneer en hoe laat:</p>
@@ -26,19 +24,19 @@
 				<label for="afspraak">U heeft een afspraak op :</label><input type="date" id="afspraak" name="afspraakDatum" size="30" /><br>
 				<label for="om">om :</label><input type="time" id="om" name="afspraakTijd" size="30" /> uur<br>
 			</fieldset>
-			<fieldset>
+			<fieldset class="personal">
 				<legend>Persoonlijke informatie</legend>
 				<label for="voornaam">Uw voornaam</label><input type="text" required id="voornaam" name="voornaam" size="30" placeholder="Voornaam"><br>
 				<label for="achternaam">Uw achternaam</label><input type="text" required id="achternaam" name="achternaam" size="30" placeholder="Achternaam"><br>
-				<input type="text" id="Adres" name="Adres" size="30" placeholder="Adres"><br>
-				<input type="tel" name="Tel_prive" size="30" placeholder="Telefoon prive" /><br>
-				<input type="tel" name="Tel_werk" size="30" placeholder="Telefoon werk" /><br>
-				<input type="tel" name="Tel_mobiel" size="30" placeholder="Mobiel" /><br>
-				<input type="email" pattern="[A-Z0-9._%+-]+@(?:[A-Z0-9-]+\.)+[A-Z]{2,6}" name="E-mail" size="30" placeholder="E-mail" /><br>
-				<input type="date" name="Geboortedatum" size="30" placeholder="Geboortedatum" /><br>
+				<label for="adres">Uw adres</label><input type="text" id="adres" name="adres" size="30" placeholder="Adres"><br>
+				<label for="tel_prive">Telefoon thuis</label><input type="tel" id="tel_prive" name="tel_prive" size="30" placeholder="Telefoon prive" /><br>
+				<label for="tel_werk">Telefoon werk</label><input type="tel" id="tel_werk" name="tel_werk" size="30" placeholder="Telefoon werk" /><br>
+				<label for="tel_mobiel">Mobiel</label><input type="tel" id="tel_mobiel" name="tel_mobiel" size="30" placeholder="Mobiel" /><br>
+				<label for="email">Email</label><input type="email" required id="email" name="email" size="30" placeholder="E-mail" /><br>
+				<label for="Geboortedatum">Geboortedatum</label><input type="date"id="Geboortedatum" name="Geboortedatum" size="30" placeholder="Geboortedatum" /><br>
 				<input type="radio" name="Geslacht" value="Man" /> Man <input type="radio" name="Geslacht" value="Vrouw" /> Vrouw <input type="radio" name="Geslacht" value="Anders" /> Anders<br>
-				<input type="text" name="Huisarts" size="30" placeholder="Huisarts"/> <br>
-				<input type="text" name="Verwijzing" size="30" placeholder="Hoe bent u bij Osteopathie Amsterdam gekomen?"/><br>
+				<label for="Huisarts">Huisarts</label><input type="text" id="Huisarts" name="Huisarts" size="30" placeholder="Huisarts"/> <br>
+				<label for="Verwijzing">Verwijzing</label><input type="text" id="Verwijzing" name="Verwijzing" size="30" placeholder="Hoe bent u bij Osteopathie Amsterdam gekomen?"/><br>
 			</fieldset>
 			<fieldset class="open_vragen">
 				<legend>Uw klachten</legend>

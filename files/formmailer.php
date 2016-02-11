@@ -16,10 +16,19 @@
 	<section id="main_section">
 	<!-- START INHOUD-->
 Welcome <?php echo $_POST["voornaam"]; ?> <?php echo $_POST["achternaam"]; ?><br>
-Your email address is: <?php echo $_POST["E-mail"]; ?><br>
+Your email address is: <?php echo $_POST["email"]; ?><br>
 <br>
 And this is hopefully all the POST data:<br>
-<?php print_r($_POST); ?>
+<?php
+	$msg = "";
+    while (list($var, $val) = each($_POST)) {
+		$res = "<span class=\"variable\">$var</span> : <span class=\"value\">$val</span><br>";
+		$msg .= $res;
+        print $res;
+    }
+	
+	send_att($msg);
+?>
 <!-- EINDE INHOUD-->
 	</section>
 	

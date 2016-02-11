@@ -24,11 +24,13 @@
 	<link rel="icon" type="image/png" href="/img/favicon.png">
 	<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
 	<script src="/js/modernizr.custom.25710.js"></script>
+	<script src="/js/doubletaptogo.js"></script>
 </head>
 
 <body>
 	<div id="wrapper">
 		<div class="attention"><?php require($INC_DIR. "attention.php"); ?></div>
 		<header id="top_header">
+			<img src="img/bloeminhandenheader.png" alt="bloem in handen">
 			<h1>Anne-Miek Osteopathie</h1>
 		</header>

@@ -7,7 +7,7 @@
 
 <?php require($INC_DIR. "header.php"); ?>
 
-<?php require($INC_DIR. "logonav.php"); ?>
+<?php require($INC_DIR. "nav.php"); ?>
 
 	<section id="main_section">
 	<h2>Osteopathie: een veilige geneeswijze die meedenkt met uw lichaam en u helpt bij herstellen van klachten.</h2>

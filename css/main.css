@@ -194,6 +194,10 @@ div#vragenlijst p:hover {
 	#top_menu {
 		position: relative;
 	}
+	#top_menu > a {
+		text-decoration: none;
+		color: rgba(255,193,0,0.7);
+	}
 	#top_menu:not( :target ) > a:first-of-type,
 	#top_menu:target > a:last-of-type {
 		display: block;

@@ -180,6 +180,9 @@ div#vragenlijst p:hover {
 .location{
     margin-right: 1.5em;
 }
+.vcard{
+    margin-right: 1.5em;
+}
 .attention{
 	text-align: center;
 }
@@ -221,6 +224,12 @@ div#vragenlijst p:hover {
 	}
 	#main_section {
 		margin: 5px;
+	}
+	.locations{
+	   display: block;
+	}
+	.vcard {
+		width: 100%;
 	}
 }
 @media screen and (max-width: 1036px) {

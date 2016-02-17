@@ -22,7 +22,7 @@
 	
 	<link rel="stylesheet" href="<?=auto_version('/css/main.css')?>">
 	<link rel="icon" type="image/png" href="/img/favicon.png">
-	<script async src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+	<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
 	<script async src="/js/modernizr.custom.25710.js"></script>
 	<script src="/js/doubletaptogo.js"></script>
 </head>

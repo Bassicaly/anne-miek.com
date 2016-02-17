@@ -1,6 +1,6 @@
 <?php
 	$INC_DIR = $_SERVER["DOCUMENT_ROOT"]. "/inc/";
-	$title = "Contact Anne-Miek Osteopathie Amsterdam";
+	$title = "Routebeschrijving Brouwersgracht";
 	$description = "routebeschrijving naar de praktijk op de brouwersgracht en parkeer gelegenheid in de omgeving";
 	$keywords = "routebeschrijving brouwersgracht";
 ?>

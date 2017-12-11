@@ -32,8 +32,6 @@
 	</ul>
 	<p>Cursussen en workshops</p>
 	<ul>
-		<li></li>
-		<li></li>
 		<li>Perinatale psychologieen de invloed op het lichaam van het opgroeiende kind (module 3), Terence Dowling, 2017</li>
 		<li>Perinatale psychologieen de invloed op het lichaam van het opgroeiende kind (module 2), Terence Dowling, 2017</li>
 		<li>Angst, stress en burnout: ziekten van onze tijd, Gabriël Devriendt, 2017</li>
@@ -62,10 +60,12 @@
 	</ul>
 	<p>Congressen en symposia</p>
 	<ul>
-		<li>Congres osteopathie, Wat beweegt ons, 2007</li>
-		<li>Congres Samen Genezen, Artsenvereniging voor Biofysische geneeskunde en Bio-informatie therapie, 2009</li>
-		<li>Congres Viscerale osteopathie, 2009</li>
+		<li>Symposium Viscera, NOF, 2017</li>
+		<li>Congres Een integrale aanpak van somatisch onvoldoende lichamelijke klachten, NVO, 2016</li>
 		<li>Congres Fascia, wat beweegt ons, Panta Rhei, 2013</li>
+		<li>Congres Viscerale osteopathie, 2009</li>
+		<li>Congres Samen Genezen, Artsenvereniging voor Biofysische geneeskunde en Bio-informatie therapie, 2009</li>
+		<li>Congres osteopathie, Wat beweegt ons, 2007</li>
 	</ul>
 	</section>
 	

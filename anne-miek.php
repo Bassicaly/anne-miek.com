@@ -18,11 +18,11 @@
 	<h2>CV</h2>
 	<p>Opleidingen</p>
 	<ul>
-		<li>Fysiotherapie aan de Academie Jan van Essen, Amsterdam, 1986</li>
-		<li>Osteopathie bij de RSK, 1993</li>
-		<li>Osteopathie bij de FICO, 2001</li>
-		<li>Ge&iuml;ntegreerde technieken volgens De Bakker, 2003-2007</li>
 		<li>Diploma Osteopathie bij Kinderen, Panta Rhei, 2010-2013</li>
+		<li>Ge&iuml;ntegreerde technieken volgens De Bakker, 2003-2007</li>
+		<li>Osteopathie bij de FICO, 2001</li>
+		<li>Osteopathie bij de RSK, 1993</li>
+		<li>Fysiotherapie aan de Academie Jan van Essen, Amsterdam, 1986</li>
 	</ul>
 	<p>Werkervaring</p>
 	<ul>

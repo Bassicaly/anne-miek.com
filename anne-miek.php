@@ -26,9 +26,9 @@
 	</ul>
 	<p>Werkervaring</p>
 	<ul>
-		<li>Particuliere praktijk ‘t Fontainehoff, Amsterdam, 1989-2004</li>
-		<li>Particuliere praktijk Gezondheidscentrum Bos en Lommer, Amsterdam, 1991-2006</li>
 		<li>Osteopathie Amsterdam, Amsterdam, 2003-2014</li>
+		<li>Particuliere praktijk Gezondheidscentrum Bos en Lommer, Amsterdam, 1991-2006</li>
+		<li>Particuliere praktijk ‘t Fontainehoff, Amsterdam, 1989-2004</li>
 	</ul>
 	<p>Cursussen en workshops</p>
 	<ul>

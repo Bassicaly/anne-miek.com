@@ -32,22 +32,33 @@
 	</ul>
 	<p>Cursussen en workshops</p>
 	<ul>
-		<li>Short lever manipulations, Laurie Hartman, 1994</li>
-		<li>Craniosacraal therapie, The Uplegder Institute Europe, 1994</li>
-		<li>Integrative osteopathic skills for head, nek and thorax, Tim Oxbrow & Daryl Herbert, 1998</li>
-		<li>Integrative osteopathic skills for trunk, pelvis and lower extremity, Tim Oxbrow & Nick Salway, 1999</li>
-		<li>Harmonic technique, Eyal Lederman, 1999</li>
-		<li>Osteopatische benadering van kinderen, Bert Smeets, 2002</li>
-		<li>Fascia, Maarten van de Straeten, 2003</li>
-		<li>Neuroanatomie, ITON (Ben van Crahnenburg), 2008</li>
-		<li>Embryo in beweging, Jaap van der Wal, 2008</li>
-		<li>Osteopathie bij pasgeborenen, LaLauze-Pol, 2009</li>
-		<li>De stem, Alain Piron, 2009</li>
-		<li>Cursus Babyreflexen, Magdalena Zweegman, De Witte Roos, 2009</li>
-		<li>Het hart, Patrick van den Heede, 2010</li>
-		<li>Biodynamische osteopathie fase 1, Werner van Camp, 2010</li>
-		<li>Biodynamische osteopathie Pediatrics fase 1, Werner van Camp, 2011</li>
+		<li></li>
+		<li></li>
+		<li>Perinatale psychologieen de invloed op het lichaam van het opgroeiende kind (module 3), Terence Dowling, 2017</li>
+		<li>Perinatale psychologieen de invloed op het lichaam van het opgroeiende kind (module 2), Terence Dowling, 2017</li>
+		<li>Angst, stress en burnout: ziekten van onze tijd, Gabriël Devriendt, 2017</li>
+		<li>Blaas en prostaat: inflammatie, incontinentie, impotentie, Gabriël Devriendt, 2017</li>
+		<li>Perinatale psychologieen de invloed op het lichaam van het opgroeiende kind (module 1), Terence Dowling, 2016</li>
+		<li>Osteopathie bij (bed)plasproblematiek, Medigres, 2016</li>
+		<li>Balanced ligamentous Tension, Paolo Tozzi, 2016</li>
+		<li>Osteopathie bij kinderen deel II, Geintegreerde technieken volgens de Bakker, 2015</li>
+		<li>De darm als 6e zintuig, Gabriël Devriendt, 2015</li>
 		<li>Slaapproblemen bij kinderen, Kok Weng Lim, 2013</li>
+		<li>Biodynamische osteopathie Pediatrics fase 1, Werner van Camp, 2011</li>
+		<li>Biodynamische osteopathie fase 1, Werner van Camp, 2010</li>
+		<li>Het hart, Patrick van den Heede, 2010</li>
+		<li>Cursus Babyreflexen, Magdalena Zweegman, De Witte Roos, 2009</li>
+		<li>De stem, Alain Piron, 2009</li>
+		<li>Osteopathie bij pasgeborenen, LaLauze-Pol, 2009</li>
+		<li>Embryo in beweging, Jaap van der Wal, 2008</li>
+		<li>Neuroanatomie, ITON (Ben van Crahnenburg), 2008</li>
+		<li>Fascia, Maarten van de Straeten, 2003</li>
+		<li>Osteopatische benadering van kinderen, Bert Smeets, 2002</li>
+		<li>Harmonic technique, Eyal Lederman, 1999</li>
+		<li>Integrative osteopathic skills for trunk, pelvis and lower extremity, Tim Oxbrow & Nick Salway, 1999</li>
+		<li>Integrative osteopathic skills for head, nek and thorax, Tim Oxbrow & Daryl Herbert, 1998</li>
+		<li>Craniosacraal therapie, The Uplegder Institute Europe, 1994</li>
+		<li>Short lever manipulations, Laurie Hartman, 1994</li>
 	</ul>
 	<p>Congressen en symposia</p>
 	<ul>

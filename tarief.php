@@ -17,7 +17,7 @@
 	<p>Betalingen per pin of contant. Bij ieder consult krijgt u een nota mee die u bij uw zorgverzekeraar kunt declareren.</p>
 	<p>Annuleren: Indien U bij verhindering tenminste 24 uur van te voren afzegt, wordt de gereserveerde tijd niet in rekening gebracht.</p>
 	<h2>Vergoeding door verzekeraar:</h2>
-	<p>Alle zorgverzekeraars vergoeden een osteopathisch consult geheel of gedeeltelijk uit het aanvullende pakket. Neem contact op met uw verzekeraar om te weten of dat ook geldt voor u. De meeste zorgverzekeraars vragen geen verwijzing voor osteopatische behandeling. Hier vindt u een <a href="http://www.osteopathie.nl/cms/upload/files/overzicht%20vergoedingen%202016.pdf" target="_blank">lijst van zorgverzekeraars en hun vergoedingen (pdf)</a> voor osteopathie voor 2016.</p>
+	<p>Alle zorgverzekeraars vergoeden een osteopathisch consult geheel of gedeeltelijk uit het aanvullende pakket. Neem contact op met uw verzekeraar om te weten of dat ook geldt voor u. De meeste zorgverzekeraars vragen geen verwijzing voor osteopatische behandeling. Hier vindt u een <a href="https://www.osteopathie.nl/vergoeding/kosten-en-vergoeding" target="_blank">lijst van zorgverzekeraars en hun vergoedingen (pdf)</a> voor osteopathie voor 2018.</p>
 	<p>Ik ben aangesloten bij het <a href="http://www.osteopathie-nro.nl" target="_blank">Nederlands Register voor Osteopathie (NRO)</a> en de <a href="http://www.osteopathie.nl" target="_blank">Nederlandse vereniging voor Osteopathie (NVO)</a></p>
 	</section>
 	

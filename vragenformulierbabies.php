@@ -13,7 +13,7 @@
 
 <?php require($INC_DIR. "nav.php"); ?>
 
-	<section id="main_section">
+	<section id="content">
 	<!-- START INHOUD--><form action="http://www.osteopathieamsterdam.nl/5231233formmailer.php" method="post" name="REG"><input type="hidden" name="SUBJECT" />
 <p>Onderstaand treft u een groot aantal vragen aan die voor mij een waardevolle hulp zijn bij de behandeling en bijdragen tot een optimaal behandelresultaat. Elke vraag is even belangrijk en geeft inzicht in de klachten.</p>
 <p>Indien u al een afspraak heeft wilt u dan hieronder?aangeven wanneer en hoe laat:</p>
@@ -176,20 +176,5 @@
 </form><!-- EINDE INHOUD-->
 	</section>
 	
-	<aside id="news_left">
-		<ul>
-			<?php
-				$var = "test";
-				$als = "next";
-			?>
-		</ul>
-	</aside>
-
-	<aside id="news_right">
-		<ul>
-			
-		</ul>
-	</aside>
-
 <?php require($INC_DIR. "footer.php"); ?>
 

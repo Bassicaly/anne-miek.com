@@ -9,7 +9,7 @@
 
 <?php require($INC_DIR. "nav.php"); ?>
 
-	<section id="main_section">
+	<section id="content">
 	<h2>Osteopathie bij baby’s</h2>
 	<img class="right" src="/img/rp1.png" alt="een tweeling bij Anne-Miek onder behandeling" />
 	<p>Tijdens een bevalling worden grote krachten uitgeoefend op het lichaam van het ongeboren kind. De beweeglijkheid van het lichaampje en de schedel zorgen er in het algemeen voor dat deze krachten goed opgevangen kunnen worden. Maar als de bevalling erg lang heeft geduurd, of als deze juist heel snel is gegaan, dan kan dat gevolgen hebben voor het welzijn van het kind. Ook kunnen klachten ontstaan na een geboorte van een baby in stuitligging, na een vacuümverlossing of een keizersnede.</p>
@@ -31,21 +31,6 @@
 	</ul>
 	<p>Osteopaten werken samen met reguliere geneeskundigen. Dankzij hun opleiding herkennen osteopaten klachten die nader onderzoek vereisen door bijvoorbeeld de huisarts of de specialist. Als het nodig is, verwijst de osteopaat naar hen door.</p>
 	</section>
-	
-	<aside id="news_left">
-		<ul>
-			<?php
-				$var = "test";
-				$als = "next";
-			?>
-		</ul>
-	</aside>
-
-	<aside id="news_right">
-		<ul>
-			
-		</ul>
-	</aside>
 
 <?php require($INC_DIR. "footer.php"); ?>
 

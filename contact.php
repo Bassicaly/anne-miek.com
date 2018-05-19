@@ -9,7 +9,7 @@
 
 <?php require($INC_DIR. "nav.php"); ?>
 
-	<section id="main_section">
+	<section id="content">
 	<h2>Contact</h2>
 	
 	<p>e-mail: <a href="mailto:osteopathie@anne-miek.com">osteopathie@anne-miek.com</a></p>
@@ -43,19 +43,5 @@
     </div>
 </div>
 	</section>
-
-	<aside id="news_left">
-		<ul>
-			<?php
-				$var = "test";
-				$als = "next";
-			?>
-		</ul>
-	</aside>
-
-	<aside id="news_right">
-		<ul>
-			
-		</ul>
-	</aside>
+	
 <?php require($INC_DIR. "footer.php"); ?>

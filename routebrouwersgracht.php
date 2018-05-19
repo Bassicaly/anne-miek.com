@@ -10,7 +10,7 @@
 
 <?php require($INC_DIR. "nav.php"); ?>
 
-	<section id="main_section">
+	<section id="content">
 	<h2>Brouwersgracht</h2>
     <ul>
         <li>Tram 3: halte Haarlemmerplein</li>
@@ -26,19 +26,5 @@
 
     
 	</section>
-
-	<aside id="news_left">
-		<ul>
-			<?php
-				$var = "test";
-				$als = "next";
-			?>
-		</ul>
-	</aside>
-
-	<aside id="news_right">
-		<ul>
-			
-		</ul>
-	</aside>
+	
 <?php require($INC_DIR. "footer.php"); ?>

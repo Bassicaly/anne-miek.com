@@ -9,7 +9,7 @@
 
 <?php require($INC_DIR. "nav.php"); ?>
 
-	<section id="main_section">
+	<section id="content">
 	<h2>Anne-Miek de Nijs</h2>
 	<img class="right" src="/img/anne-miek.png" alt="headshot van Anne-Miek">
 	<p>Ik ben in 1986 afgestudeerd als fysiotherapeut en heb met veel plezier gewerkt in particuliere praktijken. Toen ik in aanraking kwam met osteopathie was ik meteen gegrepen en besloot niet snel daarna om de opleiding te gaan volgen. In 2001 heb het examen gehaald en werk sindsdien met veel plezier als osteopaat.</p>
@@ -68,21 +68,6 @@
 		<li>Congres osteopathie, Wat beweegt ons, 2007</li>
 	</ul>
 	</section>
-	
-	<aside id="news_left">
-		<ul>
-			<?php
-				$var = "test";
-				$als = "next";
-			?>
-		</ul>
-	</aside>
-
-	<aside id="news_right">
-		<ul>
-			
-		</ul>
-	</aside>
 
 <?php require($INC_DIR. "footer.php"); ?>
 

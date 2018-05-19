@@ -10,7 +10,7 @@
 
 <?php require($INC_DIR. "nav.php"); ?>
 
-	<section id="main_section">
+	<section id="content">
 	<h2>Witte de Withstraat</h2>
     <ul>
         <li>Tram 7: halte Postjesweg</li>
@@ -29,19 +29,5 @@
 
     
 	</section>
-
-	<aside id="news_left">
-		<ul>
-			<?php
-				$var = "test";
-				$als = "next";
-			?>
-		</ul>
-	</aside>
-
-	<aside id="news_right">
-		<ul>
-			
-		</ul>
-	</aside>
+	
 <?php require($INC_DIR. "footer.php"); ?>

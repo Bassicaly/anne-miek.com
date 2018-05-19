@@ -9,7 +9,7 @@
 
 <?php require($INC_DIR. "nav.php"); ?>
 
-	<section id="main_section">
+	<section id="content">
 	<h2>Osteopathie bij kinderen</h2>
 	<p>Een osteopaat kan ook bij kinderen veel klachten verhelpen. De eerste keer dat u met uw kind komt, worden er veel vragen gesteld: over de klacht, maar ook over een eventuele ziektegeschiedenis en leefgewoonten. Zo probeert hij/zij te achterhalen welk weefsel bij uw kind klachten veroorzaakt en wat de oorzaak hiervan is.</p>
 	<p>Daarna volgt een uitgebreid lichamelijk onderzoek. De osteopaat onderzoekt welk bewegingsverlies het lichaam zichzelf niet meer herstelt. Dat doet hij/zij terwijl het kind in zijn of haar ondergoed afwisselend zit, ligt en/of staat.</p>
@@ -30,21 +30,6 @@
 		<li>Kaakproblemen</li>
 	</ul>
 	</section>
-	
-	<aside id="news_left">
-		<ul>
-			<?php
-				$var = "test";
-				$als = "next";
-			?>
-		</ul>
-	</aside>
-
-	<aside id="news_right">
-		<ul>
-			
-		</ul>
-	</aside>
 
 <?php require($INC_DIR. "footer.php"); ?>
 

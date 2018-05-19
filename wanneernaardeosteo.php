@@ -9,7 +9,7 @@
 
 <?php require($INC_DIR. "nav.php"); ?>
 
-	<section id="main_section">
+	<section id="content">
 	<h2>Wanneer naar een osteopaat</h2>
 	<p>Veel mensen met chronische rug- of nekpijn hebben baat bij behandeling door een osteopaat. Maar de lijst van klachten waarbij osteopathie kan helpen is nog veel langer. Ook bij bijvoorbeeld migraine, whiplash, buikpijn, slechte darmwerking kan behandeling door een osteopaat zinvol zijn. Ook is het belangrijk om te weten dat osteopathie uitkomst kan bieden bij huilbaby’s.</p>
 	<p>Het is onmogelijk een lijst te maken van alle klachten waarmee u bij een osteopaat terecht kunt. Hieronder vindt u een lijst van de klachten die osteopaten het meest tegenkomen. Staat uw klacht er niet bij, aarzel dan niet contact op te nemen.</p>
@@ -37,21 +37,5 @@
 	</ul>
 	</p>
 	</section>
-	
-	<aside id="news_left">
-		<ul>
-			<?php
-				$var = "test";
-				$als = "next";
-			?>
-		</ul>
-	</aside>
-
-	<aside id="news_right">
-		<ul>
-			
-		</ul>
-	</aside>
 
 <?php require($INC_DIR. "footer.php"); ?>
-

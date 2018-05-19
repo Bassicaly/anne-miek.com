@@ -9,7 +9,7 @@
 
 <?php require($INC_DIR. "nav.php"); ?>
 
-	<section id="main_section">
+	<section id="content">
 	<h2>Osteopathie: een veilige geneeswijze die meedenkt met uw lichaam en u helpt bij herstellen van klachten.</h2>
 	<br>
 	<h3>Waarom Osteopathie?</h3>
@@ -20,20 +20,5 @@
 		<li>Een goede aanvulling op eventuele andere behandelmethodes.</li>
 	</ul>
 	</section>
-	
-	<aside id="news_left">
-		<ul>
-			<?php
-				$var = "test";
-				$als = "next";
-			?>
-		</ul>
-	</aside>
-
-	<aside id="news_right">
-		<ul>
-			
-		</ul>
-	</aside>
 
 <?php require($INC_DIR. "footer.php"); ?>

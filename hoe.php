@@ -9,7 +9,7 @@
 
 <?php require($INC_DIR. "nav.php"); ?>
 
-	<section id="main_section">
+	<section id="content">
 	<h2>Hoe werkt osteopathie</h2>
 	<img class="right" src="/img/nvo1.jpg" alt="foto van ruggegraat" />
 	<p>Alles in het lichaam beweegt, van spieren tot bloedvaten, van ingewanden tot botten. Osteopathie is een veilige geneeskunde die zich richt op de beweging van en in het lichaam. Deze beweeglijkheid is nodig om goed en zonder klachten te kunnen functioneren.</p>
@@ -17,20 +17,5 @@
 	<p>Een osteopaat werkt uitsluitend met zijn handen. Hij/zij gebruikt geen medicijnen of apparaten. Hij of zij maakt los wat los moet zitten en herstelt zo met (overwegend) zachte handgrepen het zelfgenezend vermogen van het lichaam.</p>
 	<p>Een osteopaat is geen vervanger voor de huisarts of specialist, maar werkt er juist mee samen. Als het nodig is, verwijst een osteopaat door.</p>
 	</section>
-	
-	<aside id="news_left">
-		<ul>
-			<?php
-				$var = "test";
-				$als = "next";
-			?>
-		</ul>
-	</aside>
-
-	<aside id="news_right">
-		<ul>
-			
-		</ul>
-	</aside>
 
 <?php require($INC_DIR. "footer.php"); ?>

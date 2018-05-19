@@ -13,7 +13,7 @@
 
 <?php require($INC_DIR. "nav.php"); ?>
 
-	<section id="main_section">
+	<section id="content">
 	<!-- START INHOUD-->
 		<form action="/files/formmailer.php" method="post" name="REG"><!--- e-mail address of the person handling this form --->
 			<h2>Vragenformulier</h2>
@@ -206,16 +206,6 @@
 			<input type="submit" name="submit" value="Verzenden" />
 		</form><!-- EINDE INHOUD-->
 	</section>
-	
-	<aside id="news_left">
-		<ul>
-		</ul>
-	</aside>
-
-	<aside id="news_right">
-		<ul>
-		</ul>
-	</aside>
 
 <?php require($INC_DIR. "footer.php"); ?>
 

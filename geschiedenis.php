@@ -9,7 +9,7 @@
 
 <?php require($INC_DIR. "nav.php"); ?>
 
-	<section id="main_section">
+	<section id="content">
 	<h2>Geschiedenis</h2>
 	<img class="right" src="/img/nvo2.jpg" alt="foto van een schedel" />
 	<p>Osteon is Grieks voor bot, pathos voor ziekte. Hieraan heeft de osteopathie zijn naam ontleend.</p>
@@ -18,20 +18,5 @@
 	<p>In Nederland is deze vorm van geneeskunde nog relatief jong: de eerste osteopaten vestigden zich in 1985 in Nederland. In 1987 is de Nederlandse Vereniging voor Osteopathie opgericht, gevolgd door het Nederlands Register voor Osteopathie in 1989.</p>
 	<p>De laatste tien jaar raakt osteopathie ook in Nederland steeds meer bekend. Op dit moment wordt in Nederland osteopathie door zorgverzekeraars nog gezien als een alternatieve behandelwijze. De Nederlandse Vereniging voor Osteopaten maakt zich hard voor de erkenning van osteopathie als reguliere geneeskunde in Nederland. Binnenkort wordt het Nederlandse Register voor Osteopathie bijgeschreven in het keurmerkregister van VWS.</p>
 	</section>
-	
-	<aside id="news_left">
-		<ul>
-			<?php
-				$var = "test";
-				$als = "next";
-			?>
-		</ul>
-	</aside>
-
-	<aside id="news_right">
-		<ul>
-			
-		</ul>
-	</aside>
 
 <?php require($INC_DIR. "footer.php"); ?>

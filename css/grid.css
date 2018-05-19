@@ -1,0 +1,86 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+body{
+	font-family: Verdana;
+	justify-content: center;
+	background-color: rgb(68,56,44);
+	color: white;
+}
+li, ul {
+	list-style-type: none;
+}
+#site {
+	display: grid;
+	grid-template-areas: 
+		"header"
+		"nav"
+		"content"
+		"footer"
+}
+#main-head {
+	grid-area: header;
+}
+#main-head img {
+	width: 100%;
+	opacity: 0.65;
+	z-index: -1;
+}
+#main-head h1 {
+	width: 100%;
+	font-size: 3.5em;
+	text-align: center;
+	color: rgba(255,193,0,1);
+	margin: -11% 0 4%;
+}
+#main-nav {
+	grid-area: nav;
+	display: grid;
+	grid-template-columns: repeat(7, 1fr);
+}
+#main-nav > a {
+	display: none;
+}
+#main-nav a {
+	text-decoration: none;
+}
+nav > li {
+	text-align: center;
+}
+.dropdown {
+	position: relative;
+	display: inline-block;
+}
+.dropdown-content {
+	display: none;
+	position: absolute;
+	box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+	padding: 6px 8px;
+	text-align: left;
+	z-index: 1;
+	width: 100%;
+}
+.dropdown:hover .dropdown-content {
+	display: block;
+}
+#content {
+	grid-area: content;
+}
+#main-footer {
+	grid-area: footer;
+}
+#attention {
+	grid-area: header;
+}
+
+@media (min-width: 700px) {
+	#site {
+		grid-template-columns: 1fr 6fr 1fr;
+		grid-template-areas: 
+			". header ."
+			". nav ."
+			". content ."
+			". footer ."
+	}
+}

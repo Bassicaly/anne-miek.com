@@ -21,6 +21,7 @@
     <!-- setup at least some compatability for mobile devices -->
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 	
+	<link rel="stylesheet" href="<?=auto_version('css/main.css')?>">
 	<link rel="stylesheet" href="<?=auto_version('css/grid.css')?>">
 	<link rel="icon" type="image/png" href="/img/favicon.png">
 	<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>

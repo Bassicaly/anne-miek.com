@@ -37,7 +37,7 @@ li, ul {
 #main-nav {
 	grid-area: nav;
 	display: grid;
-	grid-template-columns: repeat(7, 1fr);
+	grid-template-columns: repeat(6, 1fr);
 }
 #main-nav > a {
 	display: none;
@@ -66,6 +66,7 @@ nav > li {
 }
 #content {
 	grid-area: content;
+	margin: 20px;
 }
 #main-footer {
 	grid-area: footer;

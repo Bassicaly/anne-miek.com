@@ -26,8 +26,13 @@
 				<li><a href="/vragenlijstbabies.php">Baby's</a></li>
 			</ul>
 		</li>
-		<li><a href="/tarief.php">Tarief</a></li>
-		<li><a href="/contact.php">Contact</a></li>
+		<li class="dropdown"><a href="#">FAQ</a>
+			<ul class="dropdown-content">
+				<li><a href="/tarief.php">Tarief</a></li>
+				<li><a href="/contact.php">Contact</a></li>
+				<li><a href="/privacy.php">Uw privacy</a></li>
+			</ul>
+		</li>
 	</nav>
 
 	<script>

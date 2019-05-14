@@ -37,13 +37,35 @@ li, ul {
 #main-nav {
 	grid-area: nav;
 	display: grid;
-	grid-template-columns: repeat(6, 1fr);
+	grid-template-columns: repeat(7, 1fr);
+}
+#main-nav,
+ul {
+    list-style-type: none;
+}
+#main-nav>li {
+    text-align: center;
+}
+
+#main-nav a {
+    text-decoration: none;
+    background-color: #CCC;
+    border-radius: 5px;
+    color: #7f0000;
+    display: block;
+    padding: 2px;
+    border: 1px solid #7f0000;
+}
+
+#main-nav li:hover>a {
+    background-color: #44382C;
+}
+
+#main-nav li:hover a:hover {
+    background-color: rgba(255, 193, 0, 0.8);
 }
 #main-nav > a {
 	display: none;
-}
-#main-nav a {
-	text-decoration: none;
 }
 nav > li {
 	text-align: center;

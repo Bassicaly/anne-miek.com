@@ -9,7 +9,7 @@
 
 <?php require($INC_DIR. "nav.php"); ?>
 
-	<section id="content">
+	<section id="main_section">
 	<h2>UW PRIVACY</h2>
 	<p>Voor een goede behandeling is het noodzakelijk dat ik, als uw behandelende therapeut, een dossier aanleg. Dit is ook een wettelijke plicht opgelegd door de <a href="https://www.dwangindezorg.nl/rechten/wetten/wgbo" target="_blank">WGBO</a>. Uw dossier bevat aantekeningen over uw gezondheidstoestand en gegevens over de uitgevoerde onderzoeken en behandelingen.</p>
 	<p>Ook worden in het dossier gegevens opgenomen die voor uw behandeling noodzakelijk zijn en die ik, na uw expliciete toestemming, heb opgevraagd bij een andere zorgverlener bijvoorbeeld bij de huisarts.</p>

@@ -21,14 +21,9 @@
 				</ul>
 			</li>
 			<li><a href="/anne-miek.php">Over mij</a></li>
-			<li><a href="#">Vragenlijst</a>
-				<ul>
-					<li><a href="/vragenlijst.php">Volwassenen</a></li>
-					<li><a href="/vragenlijstbabies.php">Baby's</a></li>
-				</ul>
-			</li>
 			<li><a href="/tarief.php">Tarief</a></li>
 			<li><a href="/contact.php">Contact</a></li>
+			<li><a href="/privacy.php">Uw privacy</a></li>
 		</ul>
 	</nav>
 

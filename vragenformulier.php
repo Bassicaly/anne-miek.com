@@ -1,79 +1,80 @@
 <?php
-	$INC_DIR = $_SERVER["DOCUMENT_ROOT"]. "/inc/";
-	$title = "Vragenlijst volwassenen";
-	$description = "Vragenlijst om een duidelijk beeld te krijgen van uw klachten. Dit ter voorbereiding op uw behandeling";
-	$keywords = "vragenlijst anamnese osteopathie amsterdam geschikt voor iedereen geneeswijze zachte behandeltechnieken";
+$INC_DIR = $_SERVER["DOCUMENT_ROOT"] . "/inc/";
+$title = "Vragenlijst volwassenen";
+$description = "Vragenlijst om een duidelijk beeld te krijgen van uw klachten. Dit ter voorbereiding op uw behandeling";
+$keywords = "vragenlijst anamnese osteopathie amsterdam geschikt voor iedereen geneeswijze zachte behandeltechnieken";
 ?>
 
 <?php
-    session_start();
+session_start();
 ?>
 
-<?php require($INC_DIR. "header.php"); ?>
+<?php require($INC_DIR . "header.php"); ?>
 
-<?php require($INC_DIR. "nav.php"); ?>
+<?php require($INC_DIR . "nav.php"); ?>
 
-	<section id="content">
+<section id="content">
 	<!-- START INHOUD-->
-		<form action="/files/formmailer.php" method="post" name="REG"><!--- e-mail address of the person handling this form --->
-			<h2>Vragenformulier</h2>
-			<p>Onderstaand treft u een groot aantal vragen aan die voor mij een waardevolle hulp is bij uw behandeling en bijdragen tot een optimaal behandelresultaat. Elke vraag is even belangrijk en geeft mij inzicht in uw klachten.</p>
-			<p>Indien u al een afspraak heeft wilt u dan hieronder aangeven wanneer en hoe laat:</p>
-			<fieldset>
-				<legend>Uw afspraak</legend>
-				<label for="afspraak">U heeft een afspraak op :</label><input type="date" id="afspraak" name="afspraakDatum" size="30" /><br>
-				<label for="om">om :</label><input type="time" id="om" name="afspraakTijd" size="30" /> uur<br>
-			</fieldset>
-			<fieldset class="personal">
-				<legend>Persoonlijke informatie</legend>
-				<label for="voornaam">Uw voornaam</label><input type="text" required id="voornaam" name="voornaam" size="30" placeholder="Voornaam"><br>
-				<label for="achternaam">Uw achternaam</label><input type="text" required id="achternaam" name="achternaam" size="30" placeholder="Achternaam"><br>
-				<label for="adres">Uw adres</label><input type="text" id="adres" name="adres" size="30" placeholder="Adres"><br>
-				<label for="tel_prive">Telefoon thuis</label><input type="tel" id="tel_prive" name="tel_prive" size="30" placeholder="Telefoon prive" /><br>
-				<label for="tel_werk">Telefoon werk</label><input type="tel" id="tel_werk" name="tel_werk" size="30" placeholder="Telefoon werk" /><br>
-				<label for="tel_mobiel">Mobiel</label><input type="tel" id="tel_mobiel" name="tel_mobiel" size="30" placeholder="Mobiel" /><br>
-				<label for="email">Email</label><input type="email" required id="email" name="email" size="30" placeholder="E-mail" /><br>
-				<label for="Geboortedatum">Geboortedatum</label><input type="date"id="Geboortedatum" name="Geboortedatum" size="30" placeholder="Geboortedatum" /><br>
-				<input type="radio" name="Geslacht" value="Man" /> Man <input type="radio" name="Geslacht" value="Vrouw" /> Vrouw <input type="radio" name="Geslacht" value="Anders" /> Anders<br>
-				<label for="Huisarts">Huisarts</label><input type="text" id="Huisarts" name="Huisarts" size="30" placeholder="Huisarts"/> <br>
-				<label for="Verwijzing">Verwijzing</label><input type="text" id="Verwijzing" name="Verwijzing" size="30" placeholder="Hoe bent u bij Osteopathie Amsterdam gekomen?"/><br>
-			</fieldset>
-			<fieldset class="open_vragen">
-				<legend>Uw klachten</legend>
-				<label for="klachten">Voor welke klacht(en) komt u hier? (in volgorde van belangrijkheid)</label>
-				<textarea id="klachten" name="klachten"></textarea><br>
-				<label for="wanneer">Wanneer zijn uw klachten begonnen? Maand Jaar </label><input id="wanneer" type="month" name="wanneer begonnen" /><br>
-				<label for="oorzaak">Wat is naar uw mening de oorzaak van uw klachten?</label>
-				<textarea id="oorzaak" name="mogelijke oorzaak"></textarea><br>
-				<label for="verergeren">Zijn er houdingen, bewegingen en/of andere zaken die de klachten verergeren?</label>
-				<textarea id="verergeren" name="klachten verergeren"></textarea><br>
-				<label for="verminderd">Is er iets wat de klachten verminderd?</label>
-				<textarea id="verminderd" name="klachten verminderd"></textarea><br>
-				<label for="medicijnen">Gebruikt u medicijnen? Welke? (ook de pil)</label>
-				<textarea id="medicijnen" name="medicijnen"></textarea><br>
-				<label for="voedingssupplementen">Gebruikt u voedingssupplementen en/of volgt u een dieet?</label>
-				<textarea id="voedingssupplementen" name="voedingssupplementen" placeholder=""></textarea><br>
-				<label for="specialist">Bent u onder behandeling van een specialist (of geweest), en waarvoor?</label>
-				<textarea id="specialist" name="specialist" placeholder=""></textarea><br>
-				<label for="therapeuten">Bent u onder behandeling van andere therapeuten, en waarvoor?</label>
-				<textarea id="therapeuten" name="therapeuten"></textarea><br>
-				<label for="geopereerd">Bent u wel eens ergens aan geopereerd? Zo ja, op welke leeftijd?</label>
-				<textarea id="geopereerd" name="geopereerd" placeholder=""></textarea><br>
-				<label for="botten">Heeft u wel eens botten gebroken? Zo ja, op welke leeftijd?</label>
-				<textarea id="botten" name="gebroken botten"></textarea><br>
-				<label for="onderzoeken">Heeft u wel eens medische onderzoeken ondergaan (zoals bloed, darmen, R&ouml;ntgen enz.)<br> en wat was de uitslag daarvan?</label><br>
-				<textarea id="onderzoeken" name="medische onderzoeken"></textarea><br>
-				<label for="werk">Werkt u, en zo ja, wat voor werk en hoe hoog is de lichamelijke belasting en psychische belasting?</label>
-				<textarea id="werk" name="werk en belasting"></textarea><br>
-				<label for="sport">Sport u? Welke, hoe vaak in de week en hoe lang?</label><br>
-				<textarea id="sport" name="sport"></textarea><br>
-				<label for="hobby">Heeft u nog andere hobby's?</label><br>
-				<textarea id="hobby" name="hobby's"></textarea><br>
-				<label for="erfelijke">Zijn er erfelijke ziektes in de familie?</label><br>
-				<textarea id="erfelijke" name="erfelijke ziektes"></textarea><br>
-			</fieldset>
-			<p>Beantwoord de hieronder gestelde vragen door aan te vinken wat van toepassing is.</p>
-			<div class="checklist">
+	<form action="/files/formmailer.php" method="post" name="REG">
+		<!--- e-mail address of the person handling this form --->
+		<h2>Vragenformulier</h2>
+		<p>Onderstaand treft u een groot aantal vragen aan die voor mij een waardevolle hulp is bij uw behandeling en bijdragen tot een optimaal behandelresultaat. Elke vraag is even belangrijk en geeft mij inzicht in uw klachten.</p>
+		<p>Indien u al een afspraak heeft wilt u dan hieronder aangeven wanneer en hoe laat:</p>
+		<fieldset>
+			<legend>Uw afspraak</legend>
+			<label for="afspraak">U heeft een afspraak op :</label><input type="date" id="afspraak" name="afspraakDatum" size="30" /><br>
+			<label for="om">om :</label><input type="time" id="om" name="afspraakTijd" size="30" /> uur<br>
+		</fieldset>
+		<fieldset class="personal">
+			<legend>Persoonlijke informatie</legend>
+			<label for="voornaam">Uw voornaam</label><input type="text" required id="voornaam" name="voornaam" size="30" placeholder="Voornaam"><br>
+			<label for="achternaam">Uw achternaam</label><input type="text" required id="achternaam" name="achternaam" size="30" placeholder="Achternaam"><br>
+			<label for="adres">Uw adres</label><input type="text" id="adres" name="adres" size="30" placeholder="Adres"><br>
+			<label for="tel_prive">Telefoon thuis</label><input type="tel" id="tel_prive" name="tel_prive" size="30" placeholder="Telefoon prive" /><br>
+			<label for="tel_werk">Telefoon werk</label><input type="tel" id="tel_werk" name="tel_werk" size="30" placeholder="Telefoon werk" /><br>
+			<label for="tel_mobiel">Mobiel</label><input type="tel" id="tel_mobiel" name="tel_mobiel" size="30" placeholder="Mobiel" /><br>
+			<label for="email">Email</label><input type="email" required id="email" name="email" size="30" placeholder="E-mail" /><br>
+			<label for="Geboortedatum">Geboortedatum</label><input type="date" id="Geboortedatum" name="Geboortedatum" size="30" placeholder="Geboortedatum" /><br>
+			<input type="radio" name="Geslacht" value="Man" /> Man <input type="radio" name="Geslacht" value="Vrouw" /> Vrouw <input type="radio" name="Geslacht" value="Anders" /> Anders<br>
+			<label for="Huisarts">Huisarts</label><input type="text" id="Huisarts" name="Huisarts" size="30" placeholder="Huisarts" /> <br>
+			<label for="Verwijzing">Verwijzing</label><input type="text" id="Verwijzing" name="Verwijzing" size="30" placeholder="Hoe bent u bij Osteopathie Amsterdam gekomen?" /><br>
+		</fieldset>
+		<fieldset class="open_vragen">
+			<legend>Uw klachten</legend>
+			<label for="klachten">Voor welke klacht(en) komt u hier? (in volgorde van belangrijkheid)</label>
+			<textarea id="klachten" name="klachten"></textarea><br>
+			<label for="wanneer">Wanneer zijn uw klachten begonnen? Maand Jaar </label><input id="wanneer" type="month" name="wanneer begonnen" /><br>
+			<label for="oorzaak">Wat is naar uw mening de oorzaak van uw klachten?</label>
+			<textarea id="oorzaak" name="mogelijke oorzaak"></textarea><br>
+			<label for="verergeren">Zijn er houdingen, bewegingen en/of andere zaken die de klachten verergeren?</label>
+			<textarea id="verergeren" name="klachten verergeren"></textarea><br>
+			<label for="verminderd">Is er iets wat de klachten verminderd?</label>
+			<textarea id="verminderd" name="klachten verminderd"></textarea><br>
+			<label for="medicijnen">Gebruikt u medicijnen? Welke? (ook de pil)</label>
+			<textarea id="medicijnen" name="medicijnen"></textarea><br>
+			<label for="voedingssupplementen">Gebruikt u voedingssupplementen en/of volgt u een dieet?</label>
+			<textarea id="voedingssupplementen" name="voedingssupplementen" placeholder=""></textarea><br>
+			<label for="specialist">Bent u onder behandeling van een specialist (of geweest), en waarvoor?</label>
+			<textarea id="specialist" name="specialist" placeholder=""></textarea><br>
+			<label for="therapeuten">Bent u onder behandeling van andere therapeuten, en waarvoor?</label>
+			<textarea id="therapeuten" name="therapeuten"></textarea><br>
+			<label for="geopereerd">Bent u wel eens ergens aan geopereerd? Zo ja, op welke leeftijd?</label>
+			<textarea id="geopereerd" name="geopereerd" placeholder=""></textarea><br>
+			<label for="botten">Heeft u wel eens botten gebroken? Zo ja, op welke leeftijd?</label>
+			<textarea id="botten" name="gebroken botten"></textarea><br>
+			<label for="onderzoeken">Heeft u wel eens medische onderzoeken ondergaan (zoals bloed, darmen, R&ouml;ntgen enz.)<br> en wat was de uitslag daarvan?</label><br>
+			<textarea id="onderzoeken" name="medische onderzoeken"></textarea><br>
+			<label for="werk">Werkt u, en zo ja, wat voor werk en hoe hoog is de lichamelijke belasting en psychische belasting?</label>
+			<textarea id="werk" name="werk en belasting"></textarea><br>
+			<label for="sport">Sport u? Welke, hoe vaak in de week en hoe lang?</label><br>
+			<textarea id="sport" name="sport"></textarea><br>
+			<label for="hobby">Heeft u nog andere hobby's?</label><br>
+			<textarea id="hobby" name="hobby's"></textarea><br>
+			<label for="erfelijke">Zijn er erfelijke ziektes in de familie?</label><br>
+			<textarea id="erfelijke" name="erfelijke ziektes"></textarea><br>
+		</fieldset>
+		<p>Beantwoord de hieronder gestelde vragen door aan te vinken wat van toepassing is.</p>
+		<div class="checklist">
 			<fieldset>
 				<legend>Algemeen welbevinden</legend>
 				<input type="checkbox" id="alg_slaappatroon" name="alg_slaappatroon" /><label for="alg_slaappatroon">Is uw slaappatroon de laatste tijd veranderd</label><br>
@@ -99,7 +100,7 @@
 				<input type="checkbox" id="long_allergie" name="long_allergie" /><label for="long_allergie">Bent u bekend met allergie/allergie&euml;n</label><br>
 				<input type="checkbox" id="long_hyperventilatie" name="long_hyperventilatie" /><label for="long_hyperventilatie">Heeft u wel eens last van hyperventilatie</label><br>
 				<input type="checkbox" id="long_slijm" name="long_slijm" /><label for="long_slijm">Hoest u vaak slijm op</label><br>
-				<input type="checkbox"  id="long_ontsteking" name="long_ontsteking" /><label for="long_ontsteking">Heeft u wel eens longontsteking gehad</label><br>
+				<input type="checkbox" id="long_ontsteking" name="long_ontsteking" /><label for="long_ontsteking">Heeft u wel eens longontsteking gehad</label><br>
 			</fieldset>
 			<fieldset>
 				<legend>Urinewegen</legend><br>
@@ -121,7 +122,7 @@
 				<input type="checkbox" id="vertering_oprispingen" name="vertering_oprispingen" /><label for="vertering_oprispingen">Heeft u last van oprispingen/zuurbranden</label><br>
 				<input type="checkbox" id="vertering_opgeblazen" name="vertering_opgeblazen" /><label for="vertering_opgeblazen">Heeft u vaak last van een opgeblazen gevoel</label><br>
 			</fieldset>
-			<fieldset>			
+			<fieldset>
 				<legend>Eten en drinken</legend>
 				<p>Bemerkt u verteringsproblemen bij het eten van een van de volgende produkten:</p>
 				<input type="checkbox" id="eten_aardappelen" name="eten_aardappelen" /><label for="eten_aardappelen">Aardappelen en/of tomaten</label><br>
@@ -201,11 +202,10 @@
 				<input type="checkbox" id="vrouw_bekkeninstabiliteit" name="vrouw_bekkeninstabiliteit" /><label for="vrouw_bekkeninstabiliteit">Heeft u wel eens bekkeninstabiliteit gehad</label><br>
 				<input type="radio" id="vrouw_men_12" name="menstruatie" value="voor_12" /><label for="vrouw_men_12">Was uw eerste menstruatie voor uw 12e </label><input type="radio" id="vrouw_men_15" name="menstruatie" value="na_15" /><label for="vrouw_men_15">of na uw 15e jaar</label><br>
 			</fieldset>
-			</div>
-			<p><br> Hartelijk dank voor het invullen van deze vragenlijst. Met deze informatie zal vanzelfsprekend zorgvuldig worden omgegaan.</p>
-			<input type="submit" name="submit" value="Verzenden" />
-		</form><!-- EINDE INHOUD-->
-	</section>
+		</div>
+		<p><br> Hartelijk dank voor het invullen van deze vragenlijst. Met deze informatie zal vanzelfsprekend zorgvuldig worden omgegaan.</p>
+		<input type="submit" name="submit" value="Verzenden" />
+	</form><!-- EINDE INHOUD-->
+</section>
 
-<?php require($INC_DIR. "footer.php"); ?>
-
+<?php require($INC_DIR . "footer.php"); ?>

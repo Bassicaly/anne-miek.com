@@ -1,15 +1,15 @@
 <?php
-	$INC_DIR = $_SERVER["DOCUMENT_ROOT"]. "/inc/";
-	$title = "Osteopathie bij kinderen";
-	$description = "Osteopathie bij kinderen heeft vaak baat bij motorische ontwikkelingen, astma, eczeem, bedlassen, buikpijn, gedragsproblemen, etc.";
-	$keywords = "astma kinderen buikpijn motorische ontwikkeling eczeem gedragsproblemen leerproblemen dyslexie hyperactiviteit";
+$INC_DIR = $_SERVER["DOCUMENT_ROOT"] . "/inc/";
+$title = "Osteopathie bij kinderen";
+$description = "Osteopathie bij kinderen heeft vaak baat bij motorische ontwikkelingen, astma, eczeem, bedlassen, buikpijn, gedragsproblemen, etc.";
+$keywords = "astma kinderen buikpijn motorische ontwikkeling eczeem gedragsproblemen leerproblemen dyslexie hyperactiviteit";
 ?>
 
-<?php require($INC_DIR. "header.php"); ?>
+<?php require($INC_DIR . "header.php"); ?>
 
-<?php require($INC_DIR. "nav.php"); ?>
+<?php require($INC_DIR . "nav.php"); ?>
 
-	<section id="content">
+<section id="content">
 	<h2>Osteopathie bij kinderen</h2>
 	<p>Een osteopaat kan ook bij kinderen veel klachten verhelpen. De eerste keer dat u met uw kind komt, worden er veel vragen gesteld: over de klacht, maar ook over een eventuele ziektegeschiedenis en leefgewoonten. Zo probeert hij/zij te achterhalen welk weefsel bij uw kind klachten veroorzaakt en wat de oorzaak hiervan is.</p>
 	<p>Daarna volgt een uitgebreid lichamelijk onderzoek. De osteopaat onderzoekt welk bewegingsverlies het lichaam zichzelf niet meer herstelt. Dat doet hij/zij terwijl het kind in zijn of haar ondergoed afwisselend zit, ligt en/of staat.</p>
@@ -29,7 +29,6 @@
 		<li>Buikpijn</li>
 		<li>Kaakproblemen</li>
 	</ul>
-	</section>
+</section>
 
-<?php require($INC_DIR. "footer.php"); ?>
-
+<?php require($INC_DIR . "footer.php"); ?>

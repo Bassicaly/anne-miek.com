@@ -1,15 +1,15 @@
 <?php
-	$INC_DIR = $_SERVER["DOCUMENT_ROOT"]. "/inc/";
-	$title = "Geschiedenis";
-	$description = "Ruim een eeuw geleden ontwikkeld door Andrew T. Still in Amerika. Hij combineerde zijn medische kennis met eigen, nieuwe inzichten.";
-	$keywords = "";
+$INC_DIR = $_SERVER["DOCUMENT_ROOT"] . "/inc/";
+$title = "Geschiedenis";
+$description = "Ruim een eeuw geleden ontwikkeld door Andrew T. Still in Amerika. Hij combineerde zijn medische kennis met eigen, nieuwe inzichten.";
+$keywords = "";
 ?>
 
-<?php require($INC_DIR. "header.php"); ?>
+<?php require($INC_DIR . "header.php"); ?>
 
-<?php require($INC_DIR. "nav.php"); ?>
+<?php require($INC_DIR . "nav.php"); ?>
 
-	<section id="content">
+<section id="content">
 	<h2>Geschiedenis</h2>
 	<img class="right" src="/img/nvo2.jpg" alt="foto van een schedel" />
 	<p>Osteon is Grieks voor bot, pathos voor ziekte. Hieraan heeft de osteopathie zijn naam ontleend.</p>
@@ -17,6 +17,6 @@
 	<p>In 1891 stichtte Still 'The American School of Osteopathy'. Dat was het startsein voor een verdere ontwikkeling van de osteopathie. In 1966 is Osteopathie in de Verenigde Staten wettelijk gelijk gesteld met de reguliere geneeskunde. Via Engeland en Frankrijk is de Osteopathie in Europa bekend geworden.</p>
 	<p>In Nederland is deze vorm van geneeskunde nog relatief jong: de eerste osteopaten vestigden zich in 1985 in Nederland. In 1987 is de Nederlandse Vereniging voor Osteopathie opgericht, gevolgd door het Nederlands Register voor Osteopathie in 1989.</p>
 	<p>De laatste tien jaar raakt osteopathie ook in Nederland steeds meer bekend. Op dit moment wordt in Nederland osteopathie door zorgverzekeraars nog gezien als een alternatieve behandelwijze. De Nederlandse Vereniging voor Osteopaten maakt zich hard voor de erkenning van osteopathie als reguliere geneeskunde in Nederland. Binnenkort wordt het Nederlandse Register voor Osteopathie bijgeschreven in het keurmerkregister van VWS.</p>
-	</section>
+</section>
 
-<?php require($INC_DIR. "footer.php"); ?>
+<?php require($INC_DIR . "footer.php"); ?>

@@ -1,15 +1,15 @@
 <?php
-	$INC_DIR = $_SERVER["DOCUMENT_ROOT"]. "/inc/";
-	$title = "Osteopathie bij baby's";
-	$description = "Osteopathie bij baby's kan goed helpen bij huilbaby's, slaapproblemen, onrust, refluxklachten, voorkeurshouding, platte schedel, darmkrampjes, exceem en nog meer.";
-	$keywords = "baby's huilbaby's afgeplat hoofd darmkrampjes refluxklachten eczeem";
+$INC_DIR = $_SERVER["DOCUMENT_ROOT"] . "/inc/";
+$title = "Osteopathie bij baby's";
+$description = "Osteopathie bij baby's kan goed helpen bij huilbaby's, slaapproblemen, onrust, refluxklachten, voorkeurshouding, platte schedel, darmkrampjes, exceem en nog meer.";
+$keywords = "baby's huilbaby's afgeplat hoofd darmkrampjes refluxklachten eczeem";
 ?>
 
-<?php require($INC_DIR. "header.php"); ?>
+<?php require($INC_DIR . "header.php"); ?>
 
-<?php require($INC_DIR. "nav.php"); ?>
+<?php require($INC_DIR . "nav.php"); ?>
 
-	<section id="content">
+<section id="content">
 	<h2>Osteopathie bij baby’s</h2>
 	<img class="right" src="/img/rp1.png" alt="een tweeling bij Anne-Miek onder behandeling" />
 	<p>Tijdens een bevalling worden grote krachten uitgeoefend op het lichaam van het ongeboren kind. De beweeglijkheid van het lichaampje en de schedel zorgen er in het algemeen voor dat deze krachten goed opgevangen kunnen worden. Maar als de bevalling erg lang heeft geduurd, of als deze juist heel snel is gegaan, dan kan dat gevolgen hebben voor het welzijn van het kind. Ook kunnen klachten ontstaan na een geboorte van een baby in stuitligging, na een vacuümverlossing of een keizersnede.</p>
@@ -30,7 +30,6 @@
 		<li>Keel-, neus- en oorproblemen</li>
 	</ul>
 	<p>Osteopaten werken samen met reguliere geneeskundigen. Dankzij hun opleiding herkennen osteopaten klachten die nader onderzoek vereisen door bijvoorbeeld de huisarts of de specialist. Als het nodig is, verwijst de osteopaat naar hen door.</p>
-	</section>
+</section>
 
-<?php require($INC_DIR. "footer.php"); ?>
-
+<?php require($INC_DIR . "footer.php"); ?>

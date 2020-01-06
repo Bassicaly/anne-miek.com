@@ -1,17 +1,17 @@
 <?php
-	$INC_DIR = $_SERVER["DOCUMENT_ROOT"]. "/inc/";
-	$title = "Over Anne-Miek";
-	$description = "Wie is Anne-Miek de Nijs, Osteopaat, en wat heeft zij zoal gedaan.";
-	$keywords = "opleidingen werkervaring cursussen workshops afgestudeerd osteopathie bij kinderen diploma";
+$INC_DIR = $_SERVER["DOCUMENT_ROOT"] . "/inc/";
+$title = "Over Anne-Miek";
+$description = "Wie is Anne-Miek de Nijs, Osteopaat, en wat heeft zij zoal gedaan.";
+$keywords = "opleidingen werkervaring cursussen workshops afgestudeerd osteopathie bij kinderen diploma";
 ?>
 
-<?php require($INC_DIR. "header.php"); ?>
+<?php require($INC_DIR . "header.php"); ?>
 
-<?php require($INC_DIR. "nav.php"); ?>
+<?php require($INC_DIR . "nav.php"); ?>
 
-	<section id="content">
+<section id="content">
 	<h2>Anne-Miek de Nijs</h2>
-	<img class="right" src="/img/anne-miek.png" alt="headshot van Anne-Miek">
+	<img class="right" src="/img/_ARO5341.jpg" alt="headshot van Anne-Miek" width="25%" height="25%">
 	<p>Ik ben in 1986 afgestudeerd als fysiotherapeut en heb met veel plezier gewerkt in particuliere praktijken. Toen ik in aanraking kwam met osteopathie was ik meteen gegrepen en besloot niet snel daarna om de opleiding te gaan volgen. In 2001 heb het examen gehaald en werk sindsdien met veel plezier als osteopaat.</p>
 	<p>Toen ik in aanraking kwam met baby’s en kinderen werd het snel duidelijk dat daar ook een grote affiniteit ligt en in 2013 heb ik de vervolgopleiding <span class="bold italic">Osteopathie bij Kinderen</span> afgerond.</p>
 	<p>Het is elke keer weer boeiend om klachten te kunnen herleiden naar oorzaken en het lichaam te kunnen helpen zichzelf te herstellen.</p>
@@ -26,17 +26,23 @@
 	</ul>
 	<p>Werkervaring</p>
 	<ul>
+		<li>Anne-Miek Osteopathie in samenwerking met De Gouden Reaal en Integrale Huisartsenpraktijk West, Amsterdam, 2014 - heden</li>
 		<li>Osteopathie Amsterdam, Amsterdam, 2003-2014</li>
 		<li>Particuliere praktijk Gezondheidscentrum Bos en Lommer, Amsterdam, 1991-2006</li>
 		<li>Particuliere praktijk ‘t Fontainehoff, Amsterdam, 1989-2004</li>
 	</ul>
 	<p>Cursussen en workshops</p>
 	<ul>
-		<li>Perinatale psychologieen de invloed op het lichaam van het opgroeiende kind (module 3), Terence Dowling, 2017</li>
-		<li>Perinatale psychologieen de invloed op het lichaam van het opgroeiende kind (module 2), Terence Dowling, 2017</li>
+		<li>Silverbullets 1 en 2 (osteopathie bij chronische aandoeningen), 2019</li>
+		<li>Perinatale psychologie en de invloed op het lichaam van het opgroeiende kind (module 4), Terence
+			Dowling, 2018</li>
+		<li>2-daagse workshop van Liz Koch en Anna Verwaal, Psoas en geboorte, 2018</li>
+		<li>6-daags workshop over de Musculus Psoas van Liz Koch (Core Awareness), 2017</li>
+		<li>Perinatale psychologie en de invloed op het lichaam van het opgroeiende kind (module 3), Terence Dowling, 2017</li>
+		<li>Perinatale psychologie en de invloed op het lichaam van het opgroeiende kind (module 2), Terence Dowling, 2017</li>
 		<li>Angst, stress en burnout: ziekten van onze tijd, Gabriël Devriendt, 2017</li>
 		<li>Blaas en prostaat: inflammatie, incontinentie, impotentie, Gabriël Devriendt, 2017</li>
-		<li>Perinatale psychologieen de invloed op het lichaam van het opgroeiende kind (module 1), Terence Dowling, 2016</li>
+		<li>Perinatale psychologie en de invloed op het lichaam van het opgroeiende kind (module 1), Terence Dowling, 2016</li>
 		<li>Osteopathie bij (bed)plasproblematiek, Medigres, 2016</li>
 		<li>Balanced ligamentous Tension, Paolo Tozzi, 2016</li>
 		<li>Osteopathie bij kinderen deel II, Geintegreerde technieken volgens de Bakker, 2015</li>
@@ -60,6 +66,9 @@
 	</ul>
 	<p>Congressen en symposia</p>
 	<ul>
+		<li>Congres Fertiliteit, Re Think Foundation met o.a Gabriël Devriendt, 2019</li>
+		<li>Congres prikkelbare darmsyndroom, 2019</li>
+		<li>Congres osteopathie bij kinderen, 2018</li>
 		<li>Symposium Viscera, NOF, 2017</li>
 		<li>Congres Een integrale aanpak van somatisch onvoldoende lichamelijke klachten, NVO, 2016</li>
 		<li>Congres Fascia, wat beweegt ons, Panta Rhei, 2013</li>
@@ -67,7 +76,6 @@
 		<li>Congres Samen Genezen, Artsenvereniging voor Biofysische geneeskunde en Bio-informatie therapie, 2009</li>
 		<li>Congres osteopathie, Wat beweegt ons, 2007</li>
 	</ul>
-	</section>
+</section>
 
-<?php require($INC_DIR. "footer.php"); ?>
-
+<?php require($INC_DIR . "footer.php"); ?>

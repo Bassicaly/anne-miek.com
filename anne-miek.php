@@ -11,7 +11,7 @@ $keywords = "opleidingen werkervaring cursussen workshops afgestudeerd osteopath
 
 <section id="main_section">
 	<h2>Anne-Miek de Nijs</h2>
-	<img class="right" src="/img/_ARO5341.jpg" alt="headshot van Anne-Miek" width="50%" height="50%">
+	<img class="right" src="/img/_ARO5341.jpg" alt="headshot van Anne-Miek" width="25%" height="25%">
 	<p>Ik ben in 1986 afgestudeerd als fysiotherapeut en heb met veel plezier gewerkt in particuliere praktijken. Toen ik in aanraking kwam met osteopathie was ik meteen gegrepen en besloot niet snel daarna om de opleiding te gaan volgen. In 2001 heb het examen gehaald en werk sindsdien met veel plezier als osteopaat.</p>
 	<p>Toen ik in aanraking kwam met baby’s en kinderen werd het snel duidelijk dat daar ook een grote affiniteit ligt en in 2013 heb ik de vervolgopleiding <span class="bold italic">Osteopathie bij Kinderen</span> afgerond.</p>
 	<p>Het is elke keer weer boeiend om klachten te kunnen herleiden naar oorzaken en het lichaam te kunnen helpen zichzelf te herstellen.</p>

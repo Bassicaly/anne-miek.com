@@ -16,7 +16,7 @@ $keywords = "covid19 corona behandeling hervat";
     <p>Het is ontzettend vervelend maar osteopaten mogen door de lockdown nu niet werken, in ieder geval tot en met 19 januari. 
 	Mocht ik nog iets kunnen betekenen via telefoon of videobellen dan hoor ik dat natuurlijk graag.</p>
 	<p>Sterkte en alle goeds voor 2021!</p>
-	<p>Thanks</p>
+	
 	<h3>Dear all,</h3>
 	<p>I am very sorry to let you know that osteopath's are not allowed to work until the 19th of January. 
 	If I can be of any use through phone- or a video call, please let me know.</p>

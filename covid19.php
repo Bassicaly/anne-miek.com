@@ -13,15 +13,12 @@ $keywords = "covid19 corona behandeling hervat";
 	<h2>Update over COVID 19</h2>
 	<br>
 	<h3>Beste mensen,</h3>
-    <p>Het is ontzettend vervelend maar osteopaten mogen door de lockdown nu niet werken, in ieder geval tot en met 19 januari. 
-	Mocht ik nog iets kunnen betekenen via telefoon of videobellen dan hoor ik dat natuurlijk graag.</p>
-	<p>Sterkte en alle goeds voor 2021!</p>
+	<p>Dankzij de verruiming van de corona maatregelen mag ik weer werken vanaf 3 maart.</p>
+	<p>Ik hoop u binnenkort weer te zien!</p>
 	
 	<h3>Dear all,</h3>
-	<p>I am very sorry to let you know that osteopath's are not allowed to work until the 19th of January. 
-	If I can be of any use through phone- or a video call, please let me know.</p>
-
-	<p>Take care and all the best for 2021!</p>
+	<p>Under the new corona measure I'm allowed to work again starting March 3rd.</p>
+	<p>I hope to see you soon.</p>
 </section>
 
 <?php require($INC_DIR . "footer.php"); ?>

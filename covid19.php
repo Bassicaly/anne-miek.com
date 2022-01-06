@@ -10,14 +10,14 @@ $keywords = "covid19 corona behandeling hervat";
 <?php require($INC_DIR . "nav.php"); ?>
 
 <section id="content">
-	<h2>Update over COVID 19</h2>
+	<h2>Lockdown maatregelen vanwege COVID</h2>
 	<br>
 	<h3>Beste mensen,</h3>
-	<p>Dankzij de verruiming van de corona maatregelen mag ik weer werken vanaf 3 maart.</p>
+	<p>Als osteopaten zijn wij een onderdeel van de essentiele dienstverlening en dus open tijdens toegestane openingstijden.</p>
 	<p>Ik hoop u binnenkort weer te zien!</p>
 	
 	<h3>Dear all,</h3>
-	<p>Under the new corona measure I'm allowed to work again starting March 3rd.</p>
+	<p>As osteopaths we are part of the essential services and as such we can practise within allowed opening hours.</p>
 	<p>I hope to see you soon.</p>
 </section>
 

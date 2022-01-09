@@ -33,7 +33,13 @@ $keywords = "opleidingen werkervaring cursussen workshops afgestudeerd osteopath
 	</ul>
 	<p>Cursussen en workshops</p>
 	<ul>
-		<li>Silverbullets 1 en 2 (osteopathie bij chronische aandoeningen), 2019</li>
+		<li>Het Myofasciale Systeem: Een Andere, Transdisciplinaire Benadering” met Dr. Joeri Calsius DO deel 3, 2021</li>
+		<li>Neuroendocrine dysfunctions; Osteopathic approach met Nathalie Camirand DO deel 1 en 2, 2021</li>
+		<li>Bioregulatieve geneeskunde in de osteopathie. Met Philip van Caille DO, 2020</li>
+		<li>Het Myofasciale Systeem: Een Andere, Transdisciplinaire Benadering, met Dr. Joeri Calsius DO, deel 1 en 2, 2020</li>
+		<li>Psychologie en psychosomatiek in de osteopathische praktijk met Dr. Joeri Calsius DO deel 1 en 2, 2020</li>
+		<li>Osteopathie bij Kinderen volgens de Geïntegreerde Technieken De Bakker deel 1, 2020</li>
+		<li>Silverbullets 1 en 2 Osteopathie bij chronische aandoeningen, 2019</li>
 		<li>Perinatale psychologie en de invloed op het lichaam van het opgroeiende kind (module 4), Terence
 			Dowling, 2018</li>
 		<li>2-daagse workshop van Liz Koch en Anna Verwaal, Psoas en geboorte, 2018</li>

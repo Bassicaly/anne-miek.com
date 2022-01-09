@@ -71,17 +71,24 @@ $keywords = "opleidingen werkervaring cursussen workshops afgestudeerd osteopath
 		<li>Short lever manipulations, Laurie Hartman, 1994</li>
 	</ul>
 	<p>Congressen en symposia</p>
-	<ul>
-		<li>Congres Fertiliteit, Re Think Foundation met o.a Gabriël Devriendt, 2019</li>
-		<li>Congres prikkelbare darmsyndroom, 2019</li>
-		<li>Congres osteopathie bij kinderen, 2018</li>
-		<li>Symposium Viscera, NOF, 2017</li>
-		<li>Congres Een integrale aanpak van somatisch onvoldoende lichamelijke klachten, NVO, 2016</li>
-		<li>Congres Fascia, wat beweegt ons, Panta Rhei, 2013</li>
-		<li>Congres Viscerale osteopathie, 2009</li>
-		<li>Congres Samen Genezen, Artsenvereniging voor Biofysische geneeskunde en Bio-informatie therapie, 2009</li>
-		<li>Congres osteopathie, Wat beweegt ons, 2007</li>
-	</ul>
+	<dl>
+		<dt>2019</dt>
+		<dd>Congres Fertiliteit, Re Think Foundation met o.a Gabriël Devriendt, 2019</dd>
+		<dd>Congres prikkelbare darmsyndroom, 2019</dd>
+		<dt>2018</dt>
+		<dd>Congres osteopathie bij kinderen, 2018</dd>
+		<dt>2017</dt>
+		<dd>Symposium Viscera, NOF, 2017</dd>
+		<dt>2016</dt>
+		<dd>Congres Een integrale aanpak van somatisch onvoldoende lichamelijke klachten, NVO, 2016</dd>
+		<dt>2013</dt>
+		<dd>Congres Fascia, wat beweegt ons, Panta Rhei, 2013</dd>
+		<dt>2009</dt>
+		<dd>Congres Viscerale osteopathie, 2009</dd>
+		<dd>Congres Samen Genezen, Artsenvereniging voor Biofysische geneeskunde en Bio-informatie therapie, 2009</dd>
+		<dt>2007</dt>
+		<dd>Congres osteopathie, Wat beweegt ons, 2007</dd>
+	</dl>
 </section>
 
 <?php require($INC_DIR . "footer.php"); ?>

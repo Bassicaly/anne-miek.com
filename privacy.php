@@ -28,7 +28,7 @@ $keywords = "AVG WGBO privacy gegevens beroepsgeheim";
 			<li>Uw naam, adres en woonplaats </li>
 			<li>uw geboortedatum</li>
 			<li>de datum van de behandeling</li>
-			<li>een korte omschrijving van de behandeling, zoals bijvoorbeeld ‘behandeling fysiotherapie’, of 'psychosociaal consult’</li>
+			<li>een korte omschrijving van de behandeling, zoals bijvoorbeeld 'behandeling fysiotherapie', of 'psychosociaal consult'</li>
 			<li>de tarief kosten</li>
 		</ul>
 	</p>

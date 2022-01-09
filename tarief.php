@@ -13,7 +13,7 @@
 	<h2>Kosten / Vergoeding door verzekeraar</h2>
 	<p>1e consult van 1 uur: € 90,- </p>
 	<p>Vervolgconsulten van 45 minuten: € 80-</p>
-	<p>Consulten voor baby’s en kinderen tot 16 jaar zijn 30 minuten: € 60,-</p>
+	<p>Consulten voor baby's en kinderen tot 16 jaar zijn 30 minuten: € 60,-</p>
 	<p>Betalingen per pin of contant. Bij ieder consult krijgt u een nota mee die u bij uw zorgverzekeraar kunt declareren.</p>
 	<p>Annuleren: Indien U bij verhindering tenminste 24 uur van te voren afzegt, wordt de gereserveerde tijd niet in rekening gebracht.</p>
 	<h2>Vergoeding door verzekeraar:</h2>

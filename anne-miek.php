@@ -13,7 +13,7 @@ $keywords = "opleidingen werkervaring cursussen workshops afgestudeerd osteopath
 	<h2>Anne-Miek de Nijs</h2>
 	<img class="right" src="/img/_ARO5341.jpg" alt="headshot van Anne-Miek" width="25%">
 	<p>Ik ben in 1986 afgestudeerd als fysiotherapeut en heb met veel plezier gewerkt in particuliere praktijken. Toen ik in aanraking kwam met osteopathie was ik meteen gegrepen en besloot niet snel daarna om de opleiding te gaan volgen. In 2001 heb het examen gehaald en werk sindsdien met veel plezier als osteopaat.</p>
-	<p>Toen ik in aanraking kwam met baby’s en kinderen werd het snel duidelijk dat daar ook een grote affiniteit ligt en in 2013 heb ik de vervolgopleiding <span class="bold italic">Osteopathie bij Kinderen</span> afgerond.</p>
+	<p>Toen ik in aanraking kwam met baby's en kinderen werd het snel duidelijk dat daar ook een grote affiniteit ligt en in 2013 heb ik de vervolgopleiding <span class="bold italic">Osteopathie bij Kinderen</span> afgerond.</p>
 	<p>Het is elke keer weer boeiend om klachten te kunnen herleiden naar oorzaken en het lichaam te kunnen helpen zichzelf te herstellen.</p>
 	<h2>CV</h2>
 	<p>Opleidingen</p>
@@ -29,7 +29,7 @@ $keywords = "opleidingen werkervaring cursussen workshops afgestudeerd osteopath
 		<li>Anne-Miek Osteopathie in samenwerking met De Gouden Reaal en Integrale Huisartsenpraktijk West, Amsterdam, 2014 - heden</li>
 		<li>Osteopathie Amsterdam, Amsterdam, 2003-2014</li>
 		<li>Particuliere praktijk Gezondheidscentrum Bos en Lommer, Amsterdam, 1991-2006</li>
-		<li>Particuliere praktijk ‘t Fontainehoff, Amsterdam, 1989-2004</li>
+		<li>Particuliere praktijk 't Fontainehoff, Amsterdam, 1989-2004</li>
 	</ul>
 	<p>Cursussen en workshops</p>
 	<ul>

@@ -33,6 +33,11 @@ $keywords = "opleidingen werkervaring cursussen workshops afgestudeerd osteopath
 	</ul>
 	<p>Cursussen en workshops</p>
 	<ul>
+		<li>Functional Gynecology – external and internal techniques with Nathalie Camirand DO, 2023</li>
+		<li>Brain-Gut-Pelvis Axis Program with Nathalie Camirand DO, 2022</li>
+		<li>Terugkomdag Neuroendocrine dysfunctions; Osteopathic approach met Monika Ebner DO, 2022</li>
+		<li>Cranial Palpation course with Monika Ebner DO, 2022</li>
+		<li>Neuroendocrine dysfunctions; Osteopathic approach met Nathalie Camirand D.O. 2021</li>
 		<li>Het Myofasciale Systeem: Een Andere, Transdisciplinaire Benadering” met Dr. Joeri Calsius DO deel 3, 2021</li>
 		<li>Neuroendocrine dysfunctions; Osteopathic approach met Nathalie Camirand DO deel 1 en 2, 2021</li>
 		<li>Bioregulatieve geneeskunde in de osteopathie. Met Philip van Caille DO, 2020</li>

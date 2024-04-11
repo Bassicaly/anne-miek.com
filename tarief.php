@@ -23,5 +23,3 @@
 	</section>
 
 <?php require($INC_DIR. "footer.php"); ?>
-
-https://www.osteopathie.nl/download/974/Downloads/openbaar_gedeelte/231211-Ziektekostenvergoedingen-2024.pdf

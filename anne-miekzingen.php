@@ -22,8 +22,8 @@ $keywords = "barbershop zingen zangeres Anne-Miek de Nijs accapella";
 	<p>Game On is een gemixt barbershop kwartet waar ik de Lead zing en m'n man de Bass. Hier een video van competitiein Calpe, Spanje in maart 2024.</p>
 	<iframe width="560" height="315" src="https://www.youtube.com/embed/Y-eDN_7daYc?si=YrwVYkY6tboCewXy&t=17" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 	<h3>Last Minute</h3>
-	<p>Last Minute is een barbershop kwartet waar ik de Bass zing. Hier een video van competitie waarmee zo goed gescoord is dat ik hiermee naar de wereld kampioenschappen kan gaan. Helaas is deze link alleen met een Facebook account te kunnen bekijken.</p>
-	<iframe src="https://www.facebook.com/share/r/8CpK8Jjxyd1eyByk/" width="560" height="315" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
+	<p>Last Minute is een gemixt barbershop kwartet waar ik de Lead zing. Hier een video van competitie in Calpe, Spanje in maart 2024.</p>
+	<iframe width="560" height="315" src="https://www.youtube.com/embed/hmn8JLt5RGo/" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </section>
 
 <?php require($INC_DIR . "footer.php"); ?>

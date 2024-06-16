@@ -2,7 +2,6 @@
 		<a href="#top_menu" title="Show navigation">Show navigation</a>
 		<a href="#" title="Hide navigation">Hide navigation</a>
 		<li><a href="/index.php">Home</a></li>
-		<li><a href="/covid19.php">COVID 19</a></li>
 		<li class="dropdown"><a href="/osteopaat.php">Osteopathie</a>
 			<ul class="dropdown-content">
 				<li><a href="/hoe.php">Hoe werkt het</a></li>

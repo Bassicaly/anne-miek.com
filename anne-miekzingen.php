@@ -15,7 +15,7 @@ $keywords = "barbershop zingen zangeres Anne-Miek de Nijs accapella";
 	<p>Ik krijg vaak de vraag wat ik doe met het zingen. Vandaar dat ik hier een paar van m'n videos deel om een idee te geven.</p>
 	<h3>COntinental Crush</h3>
 	<p>Continental Crush is een barbershop kwartet waar ik de Bass zing. Hier een paar videos van competities.</p>
-	<iframe width="560" height="315" src="https://youtu.be/M0Hkoiltaaw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+	<iframe width="560" height="315" src="https://youtu.be/embed/M0Hkoiltaaw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 	<iframe width="560" height="315" src="https://youtu.be/yZG0SYisG_I" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 	<h3>Game On</h3>
 	<p>Game On is een gemixt barbershop kwartet waar ik de Lead zing en m'n man de Bass. Hier een video van competitiein Calpe, Spanje in maart 2024.</p>

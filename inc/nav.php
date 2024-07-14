@@ -27,7 +27,6 @@
 		<li><a href="/tarief.php">Tarief</a></li>
 		<li><a href="/contact.php">Contact</a></li>
 		<li><a href="/privacy.php">Uw privacy</a></li>
-		<li><a href="/anne-miekzingen.php">Anne-Miek zingen</a></li>
 	</nav>
 
 	<script>

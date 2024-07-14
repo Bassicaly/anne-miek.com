@@ -14,15 +14,12 @@ $keywords = "barbershop zingen zangeres Anne-Miek de Nijs accapella";
 	<img class="right" src="/img/_ARO5341.jpg" alt="headshot van Anne-Miek" width="25%">
 	<p>Ik zing in 2 vrouwen kwartetten en 1 mix-kwartet. Onderstaande video's zijn meestal van wedstrijden waar wij aan meedoen.</p>
 	<h3>Continental Crush</h3>
-	<p>Continental Crush is een barbershop kwartet waar ik de Bass zing. Hier een paar videos van competities.</p>
 	<iframe width="560" height="315" src="https://www.youtube.com/embed/M0Hkoiltaaw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 	<p></p>
 	<iframe width="560" height="315" src="https://www.youtube.com/embed/yZG0SYisG_I" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 	<h3>Game On</h3>
-	<p>Game On is een gemixt barbershop kwartet waar ik de Lead zing en m'n man de Bass. Hier een video van competitiein Calpe, Spanje in maart 2024.</p>
 	<iframe width="560" height="315" src="https://www.youtube.com/embed/Y-eDN_7daYc?si=YrwVYkY6tboCewXy&t=17" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 	<h3>Last Minute</h3>
-	<p>Last Minute is een vrouwen barbershop kwartet waar ik de Bass zing. Hier een video van competitie in Sheffield UK.</p>
 	<iframe width="560" height="315" src="https://www.youtube.com/embed/hmn8JLt5RGo/" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </section>
 

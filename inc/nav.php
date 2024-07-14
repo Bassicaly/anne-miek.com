@@ -19,7 +19,7 @@
 				<li><a href="/volwassenen.php">Volwassenen</a></li>
 			</ul>
 		</li>
-		<li><a href="/anne-miek.php">Over mij</a>	
+		<li class="dropdown"><a href="/anne-miek.php">Over mij</a>	
 			<ul class="dropdown-content">
 				<li><a href="/anne-miekzingen.php">Anne-Miek</a></li>
 			</ul>

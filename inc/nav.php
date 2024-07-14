@@ -21,7 +21,7 @@
 		</li>
 		<li class="dropdown"><a href="/anne-miek.php">Over mij</a>	
 			<ul class="dropdown-content">
-				<li><a href="/anne-miekzingen.php">Anne-Miek</a></li>
+				<li><a href="/anne-miekzingen.php">Anne-Miek zingen</a></li>
 			</ul>
 		</li>
 		<li><a href="/tarief.php">Tarief</a></li>

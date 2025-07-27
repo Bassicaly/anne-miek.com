@@ -19,7 +19,7 @@ $keywords = "contact informatie";
 	<div class="locations">
 		<div class="vcard">
 			<p>Vanaf 1 augustus 2025 werk ik op een nieuwe locatie. De vorige locaties zijn niet meer van toepassing.</p>
-			<p>Op <span class="bold italic">dinsdag, woensdag en donderdag</span> werk ik in:</p>
+			<p>Op <span class="bold italic">dinsdag, woensdag en vrijdag</span> werk ik in:</p>
 			<span class="fn">Praktijk tussen de Bogen</span><br>
 			<div class="adr">
 				<span class="street-address">Tussen de Bogen 34</span><br>

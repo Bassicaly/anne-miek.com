@@ -15,30 +15,19 @@ $keywords = "contact informatie";
 	<p>e-mail: <a href="mailto:osteopathie@anne-miek.com">osteopathie@anne-miek.com</a></p>
 	<p>telefoon: +31 6 2550 5914</p>
 
-	<h2>Locaties:</h2>
+	<h2>Locatie:</h2>
 	<div class="locations">
 		<div class="vcard">
-			<p>Op <span class="bold italic">dinsdag</span> en <span class="bold italic">woensdag</span> :</p>
-			<span class="fn">De Gouden Reaal</span><br>
+			<p>Vanaf 1 augustus 2025 werk ik op een nieuwe locatie. De vorige locaties zijn niet meer van toepassing.</p>
+			<p>Op <span class="bold italic">dinsdag, woensdag en donderdag</span> werk ik in:</p>
+			<span class="fn">Praktijk tussen de Bogen</span><br>
 			<div class="adr">
-				<span class="street-address">Brouwersgracht 214-hs</span><br>
-				<span class="postal-code">1013 HD</span> <span class="locality">Amsterdam</span><br>
+				<span class="street-address">Tussen de Bogen 34</span><br>
+				<span class="postal-code">1013 JB</span> <span class="locality">Amsterdam</span><br>
 			</div>
-			<a href="/routebrouwersgracht.php">Routebeschrijving</a></p>
+			<a href="/routetussendebogen.php">Routebeschrijving</a></p>
 			<div class="gmap-container">
-				<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2435.373564193076!2d4.886618500000002!3d52.381777999999905!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47c609cef69cd7a1%3A0x3ba30057623785d5!2sBrouwersgracht+214%2C+1013+Amsterdam%2C+The+Netherlands!5e0!3m2!1sen!2s!4v1406574318868" width="400" height="300" frameborder="0" style="border:0"></iframe>
-			</div>
-		</div>
-		<div class="vcard">
-			<p>Op <span class="bold italic">vrijdags</span> werk ik in:</p>
-			<span class="fn">Integrale Huisartsenpraktijk West</span><br>
-			<div class="adr">
-				<span class="street-address">Witte de Withstraat 11</span><br>
-				<span class="postal-code">1057 XE</span> <span class="locality">Amsterdam</span><br>
-			</div>
-			<a href="/routewittedewithstraat.php">Routebeschrijving</a></p>
-			<div class="gmap-container">
-				<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2436.2905341570804!2d4.859527899999996!3d52.36515169999994!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47c5e20c670f602f%3A0x122ca77aa2d0b559!2sWitte+de+Withstraat+11%2C+1057+XV+Amsterdam%2C+The+Netherlands!5e0!3m2!1sen!2s!4v1406574456783" width="400" height="300" frameborder="0" style="border:0"></iframe>
+				<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2435.2327354781105!2d4.884336877574396!3d52.384331146264174!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47c609cdc804c13b%3A0x2808e524686c5649!2sTussen%20de%20Bogen%2034%2C%201013%20JB%20Amsterdam!5e0!3m2!1sen!2snl!4v1753638531845!5m2!1sen!2snl" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 			</div>
 		</div>
 	</div>

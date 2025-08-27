@@ -34,7 +34,7 @@ $keywords = "contact informatie";
 				<li>Vanaf beide haltes: Loop richting de spoorbogen (de bogen onder het spoorviaduct) <strong>LET OP: dit is aan de waterkant</strong> en volg de straat Tussen de Bogen tot nummer 34.</li>
 				<li>
 					<iframe src="https://www.google.com/maps/embed?pb=!4v1756307940870!6m8!1m7!1suaNFSd_Mgf2kF7N5_q90rA!2m2!1d52.3851362896776!2d4.88545873114309!3f125.18434995921746!4f-14.079353816031329!5f0.7820865974627469" width="400" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-					<iframe src="https://www.google.com/maps/embed?pb=!4v1756307940870!6m8!1m7!1suaNFSd_Mgf2kF7N5_q90rA!2m2!1d52.3851362896776!2d4.88545873114309!3f125.18434995921746!4f-14.079353816031329!5f0.7820865974627469" width="400" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+					<iframe src="https://www.google.com/maps/embed?pb=!4v1756308799550!6m8!1m7!1sseNZY7crLjh-06zSwC_1Vg!2m2!1d52.38368619990605!2d4.888114841923901!3f310.8922646751612!4f-17.071045079516182!5f0.7820865974627469" width="400" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 				</li>
 				<li>Vanaf Centraal Station:
 					<ul>

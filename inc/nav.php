@@ -28,10 +28,3 @@
 		<li><a href="/contact.php">Contact</a></li>
 		<li><a href="/privacy.php">Uw privacy</a></li>
 	</nav>
-
-	<script>
-		$( function()
-		{
-			$( '#top_menu li:has(ul)' ).doubleTapToGo();
-		});
-	</script>

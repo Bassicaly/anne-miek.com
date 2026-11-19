@@ -14,13 +14,13 @@ $keywords = "barbershop zingen zangeres Anne-Miek de Nijs accapella";
 	<img class="right" src="/img/_ARO5341.jpg" alt="headshot van Anne-Miek" width="25%">
 	<p>Ik zing in 2 vrouwen kwartetten en 1 mix-kwartet. Onderstaande video's zijn meestal van wedstrijden waar wij aan meedoen.</p>
 	<h3>Continental Crush</h3>
-	<iframe width="560" height="315" src="https://www.youtube.com/embed/M0Hkoiltaaw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+	<div class="embed" data-embed="https://www.youtube-nocookie.com/embed/M0Hkoiltaaw" data-provider="YouTube" data-label="Video" data-title="Video op YouTube" data-width="560" data-height="315"><a href="https://www.youtube.com/watch?v=M0Hkoiltaaw" target="_blank" rel="noopener">Bekijk de video op YouTube</a></div>
 	<p></p>
-	<iframe width="560" height="315" src="https://www.youtube.com/embed/yZG0SYisG_I" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+	<div class="embed" data-embed="https://www.youtube-nocookie.com/embed/yZG0SYisG_I" data-provider="YouTube" data-label="Video" data-title="Video op YouTube" data-width="560" data-height="315"><a href="https://www.youtube.com/watch?v=yZG0SYisG_I" target="_blank" rel="noopener">Bekijk de video op YouTube</a></div>
 	<h3>Game On</h3>
-	<iframe width="560" height="315" src="https://www.youtube.com/embed/Y-eDN_7daYc?si=YrwVYkY6tboCewXy&t=17" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+	<div class="embed" data-embed="https://www.youtube-nocookie.com/embed/Y-eDN_7daYc?start=17" data-provider="YouTube" data-label="Video" data-title="Video op YouTube" data-width="560" data-height="315"><a href="https://www.youtube.com/watch?v=Y-eDN_7daYc&amp;t=17" target="_blank" rel="noopener">Bekijk de video op YouTube</a></div>
 	<h3>Last Minute</h3>
-	<iframe width="560" height="315" src="https://www.youtube.com/embed/hmn8JLt5RGo/" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+	<div class="embed" data-embed="https://www.youtube-nocookie.com/embed/hmn8JLt5RGo" data-provider="YouTube" data-label="Video" data-title="Video op YouTube" data-width="560" data-height="315"><a href="https://www.youtube.com/watch?v=hmn8JLt5RGo" target="_blank" rel="noopener">Bekijk de video op YouTube</a></div>
 </section>
 
 <?php require($INC_DIR . "footer.php"); ?>

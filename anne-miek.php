@@ -45,8 +45,7 @@ $keywords = "opleidingen werkervaring cursussen workshops afgestudeerd osteopath
 		<li>Psychologie en psychosomatiek in de osteopathische praktijk met Dr. Joeri Calsius DO deel 1 en 2, 2020</li>
 		<li>Osteopathie bij Kinderen volgens de Geïntegreerde Technieken De Bakker deel 1, 2020</li>
 		<li>Silverbullets 1 en 2 Osteopathie bij chronische aandoeningen, 2019</li>
-		<li>Perinatale psychologie en de invloed op het lichaam van het opgroeiende kind (module 4), Terence
-			Dowling, 2018</li>
+		<li>Perinatale psychologie en de invloed op het lichaam van het opgroeiende kind (module 4), Terence Dowling, 2018</li>
 		<li>2-daagse workshop van Liz Koch en Anna Verwaal, Psoas en geboorte, 2018</li>
 		<li>6-daags workshop over de Musculus Psoas van Liz Koch (Core Awareness), 2017</li>
 		<li>Perinatale psychologie en de invloed op het lichaam van het opgroeiende kind (module 3), Terence Dowling, 2017</li>

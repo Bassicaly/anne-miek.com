@@ -2,7 +2,6 @@
 		<a href="#top_menu" title="Show navigation">Show navigation</a>
 		<a href="#" title="Hide navigation">Hide navigation</a>
 		<li><a href="/index.php">Home</a></li>
-		<li><a href="/covid19.php">COVID 19</a></li>
 		<li class="dropdown"><a href="/osteopaat.php">Osteopathie</a>
 			<ul class="dropdown-content">
 				<li><a href="/hoe.php">Hoe werkt het</a></li>
@@ -20,7 +19,11 @@
 				<li><a href="/volwassenen.php">Volwassenen</a></li>
 			</ul>
 		</li>
-		<li><a href="/anne-miek.php">Over mij</a></li>
+		<li class="dropdown"><a href="/anne-miek.php">Over mij</a>
+			<ul class="dropdown-content">
+				<li><a href="/anne-miekzingen.php">Andere hobby</a></li>
+			</ul>
+		</li>
 		<li><a href="/tarief.php">Tarief</a></li>
 		<li><a href="/contact.php">Contact</a></li>
 		<li><a href="/privacy.php">Uw privacy</a></li>

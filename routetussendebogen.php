@@ -15,7 +15,11 @@ $keywords = "routebeschrijving Tussen de Bogen";
     <ul>
         <li>Tram 3: Uitstappen bij halte Haarlemmerplein</li>
         <li>Bus 18, 21, 22: Uitstappen bij halte Buiten Oranjestraat of Haarlemmerplein</li>
-        <li>Vanaf beide haltes: Loop richting de spoorbogen (de bogen onder het spoorviaduct) en volg de straat Tussen de Bogen tot nummer 34.</li>
+        <li>Vanaf beide haltes: Loop richting de spoorbogen (de bogen onder het spoorviaduct) <strong>LET OP: dit is aan de waterkant</strong> en volg de straat Tussen de Bogen tot nummer 34.</li>
+        <li>
+            <iframe src="https://www.google.com/maps/embed?pb=!4v1756307940870!6m8!1m7!1suaNFSd_Mgf2kF7N5_q90rA!2m2!1d52.3851362896776!2d4.88545873114309!3f125.18434995921746!4f-14.079353816031329!5f0.7820865974627469" width="400" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+            <iframe src="https://www.google.com/maps/embed?pb=!4v1756307940870!6m8!1m7!1suaNFSd_Mgf2kF7N5_q90rA!2m2!1d52.3851362896776!2d4.88545873114309!3f125.18434995921746!4f-14.079353816031329!5f0.7820865974627469" width="400" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+        </li>
         <li>Vanaf Centraal Station:
             <ul>
                 <li>Neem bus 18, 21 of 22 richting westen en stap uit bij Buiten Oranjestraat of Haarlemmerplein.</li>
